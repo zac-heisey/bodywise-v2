@@ -20,7 +20,7 @@ defaults:
   values:
     permalink: "/:title/"
     featured-image: ''
-    excerpt: ''
+    description: ''
     author: ''
 
 # Build settings
