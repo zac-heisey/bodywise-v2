@@ -1,6 +1,6 @@
 <!-- Header -->
 <header class="site-header" role="banner">
-  <div id="header" class="alt">
+  <div id="header" class="{% if page.layout == 'home' %}alt{% else %}{% endif %}">
     <h1 id="logo"><a href="index.html">Gravity</a></h1>
     <p>Lorem ipsum dolor sit amet</p>
     <nav id="nav">
