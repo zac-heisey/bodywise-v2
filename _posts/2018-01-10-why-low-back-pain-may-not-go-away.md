@@ -3,7 +3,7 @@ title: Why Low Back Pain May Not Go Away
 date: 2018-01-10T11:23:18+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2017/08/back-pain-1.jpg
+image: /images/back-pain.jpg
 categories:
   - Health and Wellness
   - Back and Neck Pain
