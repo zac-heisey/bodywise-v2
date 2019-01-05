@@ -1140,11 +1140,11 @@
 
 	#header {
 		background-color: _palette(bg);
-		border-bottom: solid 1px _palette(border);
+		// border-bottom: solid 1px _palette(border);
 		box-shadow: 0px 0.0375em 0.125em 0px rgba(0,0,0,0.05);
 		color: #fff;
 		cursor: default;
-		height: 4.5em;
+		height: 6.5em; // Was 4.5em
 		letter-spacing: _font(letter-spacing);
 		line-height: 4.6em;
 		position: fixed;
@@ -1152,6 +1152,10 @@
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+
+		img {
+			margin: 1rem 0 0 1rem;
+		}
 
 		h1 {
 			color: _palette(fg-bold);
@@ -1237,6 +1241,10 @@
 			padding: 4em 0 5em 0;
 			position: static;
 			text-align: center;
+
+			img {
+				margin: 0;
+			}
 
 			h1 {
 				font-size: 1.75em;
@@ -1730,7 +1738,7 @@
 		/* Header */
 
 			#header {
-				height: 3.85em;
+				height: 6.5em; // Was 3.85em
 				line-height: 3.85em;
 
 				h1 {
