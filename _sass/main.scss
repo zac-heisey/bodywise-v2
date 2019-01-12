@@ -1151,7 +1151,7 @@
 		text-transform: uppercase;
 		top: 0;
 		width: 100%;
-		z-index: 10000;
+		z-index: 1; // Was 10000
 
 		img {
 			margin: 1rem 0 0 2rem;
