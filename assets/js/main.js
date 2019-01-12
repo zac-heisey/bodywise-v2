@@ -41,7 +41,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + 'Bodywise PT' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
