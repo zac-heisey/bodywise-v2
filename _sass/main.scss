@@ -967,7 +967,7 @@
 			color: _palette(fg-bold) !important;
 
 			&:hover {
-				background-color: _palette(border-bg);
+				background-color: _palette(accent1, fg-light);
 			}
 
 			&:active {
