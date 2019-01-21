@@ -1,0 +1,30 @@
+---
+label: Post Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Post title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Date to be published
+  config:
+    required: true
+- type: text
+  name: author
+  label: Author
+  description: Post author
+  default: Bodywise PT
+- type: file
+  name: image
+  label: Image
+  description: Featured image for post
+- type: tag_list
+  name: categories
+  label: Categories
+  description: Post categories
