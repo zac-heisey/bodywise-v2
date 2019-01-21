@@ -8,7 +8,3 @@ navigation:
   title: Home
   identifier: home
   weight: 1
-about:
-- url: "/locations"
-  weight: 2
-  title: Locations
