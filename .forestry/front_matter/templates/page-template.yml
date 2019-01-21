@@ -1,0 +1,24 @@
+---
+label: Page Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Page title
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: Page subtitle
+- type: textarea
+  name: description
+  label: Description
+  description: Page description for SEO purposes
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
