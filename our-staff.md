@@ -1,8 +1,9 @@
 ---
-title: Our Staff
+title: Our Team
 layout: page
 subtitle: Meet the Bodywise Team
 sidebar: false
+menus: about
 ---
 
 <h3>Dolore Amet Consequat</h3>
