@@ -9,6 +9,9 @@ navigation:
   identifier: home
   weight: 2
 about:
-- url: google.com
+- weight: 3
+  url: "/blog"
+  title: Blog
+- url: "/locations"
   weight: 2
   title: Locations
