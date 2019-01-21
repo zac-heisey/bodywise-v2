@@ -16,6 +16,7 @@ fields:
   config:
     required: true
     display_utc: false
+    time_format: h:mm
 - type: text
   name: author
   label: Author
