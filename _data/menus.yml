@@ -1,0 +1,9 @@
+---
+navigation:
+  - url: /
+    title: Home
+    identifier: home
+  - url: /#
+    title: About Us
+    identifier: about
+---

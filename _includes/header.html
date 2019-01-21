@@ -4,16 +4,18 @@
     <a href="/"><img src="/images/logo.png"></a>
     <nav id="nav">
       <ul>
-        <li><a href="/">Home</a></li>
+      {% for item in site.menus.navigation %}
         <li>
-          <a href="#">About Us</a>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+          {% if item.children %}
           <ul>
-            <li><a href="/our-staff">Our Team</a></li>
-            <li><a href="#">Locations</a></li>
-            <li><a href="/blog/">Blog</a></li>
+          {% for item in item.children %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
           </ul>
+          {% endif %}
         </li>
-        <li><a href="/elements.html">Elements</a></li>
+      {% endfor %}
         <li><a href="#" class="button alt">Contact</a></li>
       </ul>
     </nav>
