@@ -19,9 +19,14 @@ defaults:
     type: posts
   values:
     permalink: "/:title/"
-    featured-image: ''
-    description: ''
-    author: ''
+    layout: post
+    image: ''
+- scope:
+  path: ''
+  type: posts
+values:
+  permalink: "/:title/"
+  layout: page
 
 # Build settings
 markdown: kramdown
