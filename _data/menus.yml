@@ -1,9 +1,14 @@
 ---
 navigation:
-  - url: /
-    title: Home
-    identifier: home
-  - url: /#
-    title: About Us
-    identifier: about
----
+- url: "/#"
+  title: About Us
+  identifier: about
+  weight: 1
+- url: "/"
+  title: Home
+  identifier: home
+  weight: 2
+about:
+- url: google.com
+  weight: 2
+  title: Locations
