@@ -15,6 +15,7 @@ fields:
   description: Date to be published
   config:
     required: true
+    display_utc: true
 - type: text
   name: author
   label: Author
