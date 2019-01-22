@@ -1,6 +1,6 @@
 ---
 name: Julie Hanson
-pic: /images/julie-hanson.jpg
+image: /images/julie-hanson.jpg
 role: Clinic Owner, DPT
 ---
 
