@@ -14,7 +14,9 @@ layout: default
 			{% include sidebar.html %}
 		{% else %}
 		<section id="content">
-			<img src="/images/pic03.jpg" title="{{ page.title }} image" alt="{{ page.title }} image" class="image fit" />
+			{% if page.image and page.image != '' %}
+			<img src="{{ page.image }}" title="{{ page.title }} image" alt="{{ page.title }} image" class="image fit" />
+			{% endif %}
     {{ content }}
 		</section>
 		{% endif %}
