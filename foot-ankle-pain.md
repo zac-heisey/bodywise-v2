@@ -1,12 +1,12 @@
 ---
-title: Foot and Ankle Pain
+title: Foot & Ankle Pain
 layout: page
 subtitle:
 sidebar: false
 image: /images/foot-ankle-pain.jpg
 menu:
   symptoms:
-    weight: 2
+    weight: 4
 ---
 
 ## Why are feet and ankle problems so common?

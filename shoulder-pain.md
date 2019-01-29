@@ -6,7 +6,7 @@ sidebar: false
 image: /images/shoulder-anatomy.jpg
 menu:
   symptoms:
-    weight: 3
+    weight: 8
 ---
 
 ## Make Your Shoulders Move Pain Free Again
