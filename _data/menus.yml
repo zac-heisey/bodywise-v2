@@ -1,10 +1,30 @@
 ---
 navigation:
-- url: "/#"
-  title: About Us
-  identifier: about
-  weight: 2
 - url: "/"
   title: Home
   identifier: home
   weight: 1
+- url: "#"
+  title: About Us
+  identifier: about
+  weight: 2
+- url: "#"
+  title: Symptoms & Conditions
+  identifier: symptoms
+  weight: 3
+- url: "#"
+  title: Specialties
+  identifier: specialties
+  weight: 4
+- url: "#"
+  title: Patient Info
+  identifier: patient-info
+  weight: 5
+- url: "/faqs"
+  title: FAQs
+  identifier: faqs
+  weight: 6
+- url: "#"
+  title: Insurance Plans
+  identifier: insurance
+  weight: 7
