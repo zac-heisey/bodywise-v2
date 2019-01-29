@@ -9,7 +9,7 @@ navigation:
   identifier: about
   weight: 2
 - url: "#"
-  title: Symptoms & Conditions
+  title: Symptoms
   identifier: symptoms
   weight: 3
 - url: "#"
@@ -25,6 +25,6 @@ navigation:
   identifier: faqs
   weight: 6
 - url: "#"
-  title: Insurance Plans
-  identifier: insurance
+  title: Insurance Info
+  identifier: insurance-info
   weight: 7
