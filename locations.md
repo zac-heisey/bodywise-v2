@@ -7,5 +7,4 @@ menu:
   about:
     weight: 2
     title: Locations
-
 ---

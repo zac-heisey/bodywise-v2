@@ -3,7 +3,10 @@ title: Foot and Ankle Pain
 layout: page
 subtitle:
 sidebar: false
-image: /wp-content/uploads/2018/04/foot_and_ankle.jpeg
+image: /images/foot-ankle-pain.jpg
+menu:
+  symptoms:
+    weight: 2
 ---
 **Why are feet and ankle problems so common?**
 

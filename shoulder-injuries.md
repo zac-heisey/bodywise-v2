@@ -1,9 +1,12 @@
 ---
-title: How to Make Your Shoulders Move Pain Free Again
+title: Shoulder Pain
 layout: page
 subtitle:
 sidebar: false
 image: /wp-content/uploads/2017/04/shoulderstretch.jpg
+menu:
+  symptoms:
+    weight: 3
 ---
 ## **Make Your Shoulders Move Pain Free Again  **
 
