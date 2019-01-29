@@ -15,7 +15,7 @@ By the time people seek treatment for their neck pain and headaches, it’s not 
 
 In some cases, the causes of your headaches or neck pain may be obvious — if you’ve recently been in a car accident or suffered a sports injury, for example. Often, however, problems can develop through poor posture or from having to perform the same action repeatedly. In addition, if you’re often obliged to spend too much time at your desk or in the car, the resulting muscle weakness can add to the problem.
 
-## WHAT ARE THE CONSEQUENCES OF NOT GETTING HELP?
+**What are the consequences of not getting help?**
 
 Patients who seek treatment from their neck-centered issues are often surprised to learn that some other problems they’ve been experiencing might be related. So even if you think you can “live with” not being able to turn your neck fully, other problems can accumulate
 
@@ -23,7 +23,7 @@ For example, if you have chronic migraines or frequent bouts of tension headache
 
 Untreated neck pain can even lead to issues you might never expect, such as balance problems or trouble gripping objects. That’s because each of the nerve roots located in your upper vertebrae is connected to other parts of your body, from your biceps to each of your little fingers.
 
-## HOW CAN NECK PAIN AND HEADACHES BE TREATED?
+**How can new pain and headaches be treated?**
 
 Once we’ve pinpointed the main cause of your neck pain and stiffness, as well as headaches that we’ve determined stem from upper vertebrae issues, we’ll develop a treatment plan with you. In your sessions, you’ll be taken through moves that build strength and flexibility. Our team of physical therapists will also help you learn how to better position yourself during your daily life to avoid relapses, including ergonomic and posture tips.
 
