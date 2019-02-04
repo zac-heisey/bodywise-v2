@@ -1415,10 +1415,10 @@
 	#footer {
 		@include padding(8em, 0);
 		background-color: _palette(accent2, bg);
-		color: _palette(fg-light);
+		color: _palette(bg);
 
 		h2, h3, h4, h5, h6 {
-			color: _palette(accent2, fg-bold);
+			color: _palette(accent1, bg);
 		}
 
 		header.major:after {
@@ -1427,11 +1427,11 @@
 
 		a:not(.button) {
 			@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
-			color: _palette(fg-light);
+			color: _palette(bg);
 			text-decoration: none;
 
 			&:active, &:hover {
-				color: _palette(accent2, fg-bold);
+				color: _palette(accent1, bg);
 			}
 		}
 
