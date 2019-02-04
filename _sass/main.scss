@@ -1413,7 +1413,7 @@
 /* Footer */
 
 	#footer {
-		@include padding(8em, 0);
+		@include padding(3em, 0);
 		background-color: _palette(accent2, bg);
 		color: _palette(bg);
 
