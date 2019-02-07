@@ -15,7 +15,7 @@ menu:
     <img class="member-img" src="{{ person.image }}" title="{{ person.name }} | Bodywise Physical Therapy" alt="image of {{ person.name }}">
     <h3 class="member-name">{{ person.name }}</h3>
     <h4 class="member-role">{{ person.role }}</h4>
-    <p class="member-bio">{{ person.content }}</p>
+    <div class="member-bio">{{ person.content }}</div>
   </div>
   {% endfor %}
 </div>
