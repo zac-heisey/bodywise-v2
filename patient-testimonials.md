@@ -12,7 +12,7 @@ menu:
 
 > "I appreciate the care and knowledge that Bodywise brings to healing the body especially for aging athletes like myself. Get to the start line healthy!" **- Todd S.**
 
-> "I appreciate that #Bodywise PT has a broad understanding of the human body, excellent training and skill sets! Plus- they practice what they preach. So important! Thanks Bodywise! Boulder area is lucky to have you!" **- Sarah S.**
+> "I appreciate that Bodywise PT has a broad understanding of the human body, excellent training and skill sets! Plus- they practice what they preach. So important! Thanks Bodywise! Boulder area is lucky to have you!" **- Sarah S.**
 
 > "THE BEST!!! I would recommend them to anyone, especially athletes like me that aren't 20 years old anymore. Performed wonders & I felt great. Ready to hit the trails again. THANK YOU!" **- Mona P.**
 
