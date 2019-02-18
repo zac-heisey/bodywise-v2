@@ -22,6 +22,12 @@ fields:
   label: Author
   description: Post author
   default: Bodywise PT
+- type: textarea
+  name: description
+  label: Description
+  description: Post description for SEO purposes
+  config:
+    required: true
 - type: file
   name: image
   label: Image
