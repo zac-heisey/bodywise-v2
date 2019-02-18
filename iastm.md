@@ -1,7 +1,8 @@
 ---
 title: IASTM
 layout: page
-subtitle:
+subtitle: Promote Healing and Decrease Inflammation with IASTM Treatment
+description: The physical therapists at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster use IASTM to decrease inflammation and promote healing.
 sidebar: false
 image: /images/iastm.jpg
 menu:

@@ -1,7 +1,8 @@
 ---
 title: Neck Pain & Whiplash
 layout: page
-subtitle:
+subtitle: Physical Therapy Treatment for Neck Pain and Whiplash
+description: Treat your neck pain & whiplash symptoms at Bodywise Physical Therapy. Visit us in Boulder, Broomfield, or Westminster today.
 sidebar: false
 image: /images/neck-pain.jpg
 menu:

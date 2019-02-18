@@ -1,7 +1,8 @@
 ---
 title: Headaches & TMJ
 layout: page
-subtitle:
+subtitle: Get Relief from Your Headaches & TMJ Issues at Bodywise
+description: Bodywise Physical Therapy can effectively treat chronic headaches and TMJ through a variety of physical therapy treatments. Visit us to learn more!
 sidebar: false
 image: /images/headaches-tmj.jpg
 menu:

@@ -1,7 +1,8 @@
 ---
 title: Tendonitis
 layout: page
-subtitle:
+subtitle: Physical Therapy for Tendonitis at Bodywise
+description: Tendonitis treatment in Boulder, Broomfield, and Westminster at Bodywise Physical Therapy. Relieve tendonitis with physical therapy treatment.
 sidebar: false
 image: /images/tendonitis.jpg
 menu:

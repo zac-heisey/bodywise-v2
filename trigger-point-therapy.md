@@ -1,7 +1,8 @@
 ---
 title: Trigger Point Therapy
 layout: page
-subtitle:
+subtitle: Treat Chronic Muscle Pain, Relieve Knots, and Release Stress
+description: Trigger point therapy at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster. Treat chronic muscle pain, relieve knots, and release stress.
 sidebar: false
 image: /images/trigger-point-therapy.jpg
 menu:

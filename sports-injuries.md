@@ -1,7 +1,8 @@
 ---
 title: Sports Injuries
 layout: page
-subtitle:
+subtitle: Let Bodywise Physical Therapy Help You Get Back In the Game
+description: Bodywise Physical Therapy can help get you back to competition faster and stronger than before your injury. Book an appointment in Boulder, Broomfield, or Westminster today.
 sidebar: false
 image: /images/sports-injuries.jpg
 menu:

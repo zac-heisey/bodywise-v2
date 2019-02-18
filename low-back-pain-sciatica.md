@@ -1,7 +1,8 @@
 ---
 title: Low Back Pain & Sciatica
 layout: page
-subtitle:
+subtitle: Treat Your Low Back Pain and Sciatica at Bodywise Physical Therapy
+description: Visit Bodywise Physical Therapy and get low back pain & sciatica relief today. Locations in Boulder, Broomfield, and Westminster.
 sidebar: false
 image: /images/low-back-pain-sciatica.jpg
 menu:

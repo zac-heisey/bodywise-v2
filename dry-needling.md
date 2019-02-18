@@ -1,7 +1,8 @@
 ---
 title: Dry Needling
 layout: page
-subtitle:
+subtitle: Dry Needling Treatment at Bodywise Physical Therapy
+description: Dry Needling is a medical technique performed by skilled physical therapists to reduce pain, ease muscle tension, and improve mobility. Visit to Bodywise to learn more!
 sidebar: false
 image:
 menu:

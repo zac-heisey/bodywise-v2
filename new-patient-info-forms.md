@@ -1,7 +1,8 @@
 ---
 title: New Patient Info and Forms
 layout: page
-subtitle:
+subtitle: Paperwork for New Bodywise Physical Therapy Patients
+description: New Bodywise Physical Therapy patient information, forms, and required paperwork.
 sidebar: false
 menu:
   patient-info:

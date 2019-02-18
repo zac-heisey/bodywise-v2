@@ -1,7 +1,8 @@
 ---
 title: Arm Numbness & Pain
 layout: page
-subtitle:
+subtitle: Physical Therapy for Arm Numbness, Carpal Tunnel, and More
+description: Bodywise Physical Therapy treats patients with arm numbness & pain caused by Carpal Tunnel Syndrome, arthritis, tendonitis, and more.
 sidebar: false
 image: /images/arm-numbness-pain.jpg
 menu:

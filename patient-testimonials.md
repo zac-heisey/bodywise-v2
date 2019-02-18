@@ -2,6 +2,7 @@
 title: Patient Testimonials
 layout: page
 subtitle: See What Some of Our Past & Current Patients Have to Say
+description: Bodywise Physical Therapy is proud of the reputation we've built as a top physical therapy clinic in Colorado. Hear what some of our past patients have to say.
 sidebar: false
 menu:
   patient-info:

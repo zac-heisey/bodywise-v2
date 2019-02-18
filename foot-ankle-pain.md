@@ -1,7 +1,8 @@
 ---
 title: Foot & Ankle Pain
 layout: page
-subtitle:
+subtitle: Foot and Ankle Treatment at Bodywise Physical Therapy
+description: Bodywise Physical Therapy provides foot & ankle pain treatment in Boulder, Broomfield, and Westminster. Strengthen your ankles and improve chronic foot pain today.
 sidebar: false
 image: /images/foot-ankle-pain.jpg
 menu:

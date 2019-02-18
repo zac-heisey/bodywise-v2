@@ -1,7 +1,8 @@
 ---
 title: Shoulder Pain
 layout: page
-subtitle:
+subtitle: Treat Shoulder Pain and Prevent Injuries with Bodywise
+description: Treat nagging shoulder injuries and prevent further damage with Bodywise Physical Therapy. Call or reach out today to schedule an appointment.
 sidebar: false
 image: /images/shoulder-anatomy.jpg
 menu:

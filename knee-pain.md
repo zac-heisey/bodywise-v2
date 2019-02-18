@@ -1,7 +1,8 @@
 ---
 title: Knee Pain
 layout: page
-subtitle:
+subtitle: Knee Pain Treatment in Boulder, Broomfield, and Westminster
+description: Knee pain treatment programs offered by physical therapists at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster. Visit us today!
 sidebar: false
 image: /images/knee-pain.jpg
 menu:
