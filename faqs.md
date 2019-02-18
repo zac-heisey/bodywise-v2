@@ -1,7 +1,7 @@
 ---
 title: FAQs
 layout: page
-subtitle: See What Some of Our Past & Current Patients Have to Say
+subtitle: Answers to Common Physical Therapy Questions from Bodywise
 description: Gain accurate answers regarding health and fitness in the FAQ section of Bodywise Physical Therapy.
 sidebar: false
 ---
