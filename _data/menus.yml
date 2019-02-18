@@ -24,7 +24,7 @@ navigation:
   title: FAQs
   identifier: faqs
   weight: 6
-- url: "#"
+- url: "/insurance-plans"
   title: Insurance Info
   identifier: insurance-info
   weight: 7
