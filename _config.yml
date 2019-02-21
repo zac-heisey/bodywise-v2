@@ -15,6 +15,9 @@ collections:
   team-members:
     title: Team Members
     output: false
+  locations:
+    title: Locations
+    output: false
 defaults:
 - scope:
     path: ''
