@@ -13,7 +13,7 @@ menu:
 <div id="locations">
   {% for location in site.locations %}
   <div class="location-info">
-    <iframe src="{{ location.google-maps-embed }}" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="{{ location.google-maps-embed }}" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
     <h3 class="location-name">{{ location.name }}</h3>
     <address>
       <p>{{ location.address-1 }}<br>
