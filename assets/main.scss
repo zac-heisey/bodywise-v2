@@ -159,15 +159,15 @@
 
 }
 
-/* Team Member Styles */
+/* Team Member and Locations Styles */
 
-#team-members {
+#team-members, #locations {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 5em;
   text-align: center;
 
-  .member-bio {
+  .member-bio, .location-info {
     text-align: left;
   }
 
