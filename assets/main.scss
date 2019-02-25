@@ -159,7 +159,7 @@
 
 }
 
-/* Team Member and Locations Styles */
+/* Team Member and Locations Styles (CSS Grid) */
 
 #team-members, #locations {
   display: grid;
@@ -175,4 +175,14 @@
     grid-template-columns: 1fr;
   }
 
+}
+
+/* Blog Styles */
+
+article.post {
+  margin-top: 3rem;
+}
+
+h1.post-title {
+  font-size: 2em;
 }
