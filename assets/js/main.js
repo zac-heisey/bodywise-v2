@@ -149,3 +149,9 @@
 		});
 
 })(jQuery);
+
+// Footer Copyright Date
+var copyrightDate = document.querySelector('#date');
+var today = new Date();
+var currentYear = today.getFullYear();
+date.innerText = currentYear;
