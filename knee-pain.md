@@ -20,4 +20,4 @@ Knee pain has many causes, including arthritis and bursitis. In addition, sports
 
 Our highly trained team of physical therapists will evaluate your knee issues, including the location and level of pain and how far you can bend and move your knees and legs in various positions. In all likelihood, your physical therapy to decrease knee pain will consist of strength-building movements, as well as stretches and other flexibility-enhancing techniques.
 
-When you’re ready to begin working on methods for getting rid of your knee and/or hip pain, contact us at Boulder, Broomfield & Westminster, CO centers. [Our dedicated team of physical therapists](/our-staff/) will evaluate your condition and suggest a course of treatment.
+When you’re ready to begin working on methods for getting rid of your knee and/or hip pain, [contact us](/contact-us/) at Boulder, Broomfield & Westminster, CO centers. [Our dedicated team of physical therapists](/our-staff/) will evaluate your condition and suggest a course of treatment.

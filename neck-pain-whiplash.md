@@ -28,4 +28,4 @@ Untreated neck pain can even lead to issues you might never expect, such as bala
 
 Once we’ve pinpointed the main cause of your neck pain and stiffness, as well as headaches that we’ve determined stem from upper vertebrae issues, we’ll develop a treatment plan with you. In your sessions, you’ll be taken through moves that build strength and flexibility. Our team of physical therapists will also help you learn how to better position yourself during your daily life to avoid relapses, including ergonomic and posture tips.
 
-Vist us in Boulder, Broomfield, or Westminster so we can help you quickly resolve the debilitating neck pain you’re feeling now – and learn how to prevent it in the future.
+Visit us in [Boulder, Broomfield, or Westminster](/locations/) so we can help you quickly resolve the debilitating neck pain you’re feeling now – and learn how to prevent it in the future. [Get in touch](/contact-us/) to schedule your appointment today!

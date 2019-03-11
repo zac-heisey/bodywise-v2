@@ -30,7 +30,7 @@ Working on strength, flexibility and circulation are all crucial components to t
 
 - Strength building moves, to tone the tendons, ligaments and columns that support your spine. Working your abs, hips, and glutes will all result in a stronger core that resists lower back pain.
 
-**Read to Eradicate Your Low Back Pain and Sciatica?**
+**Ready to Eradicate Your Low Back Pain and Sciatica?**
 
 Our patients are often referred to us by their primary physicians or by a specialist, and we’ll continue to work with your medical team to treat the specific cause of your pain. Our highly trained [physical therapists](/our-staff/) will also give you a full evaluation, including a spinal alignment assessment, simple tests to evaluate muscle strength in the areas that support your back and lower body, and range-of-motion evaluations.
 

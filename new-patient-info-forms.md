@@ -15,7 +15,7 @@ We are here to help you enjoy your life, pain-free! To make a convenient appoint
 
 **Patient Forms**
 
-At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior to your first visit, please follow the Intake Form link below and submit that online. Then print and fill out the New Patient Registration Form below, and bring it with you to your first visit along with your insurance information and photo ID.
+At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior to your first visit, please click the blue button below to download the New Patient Registration Form. Then print and complete the form, and bring it with you on your first visit along with your insurance information and photo ID.
 
 <a href="/assets/bodywise-new-patient-paperwork.pdf" class="button primary" download>Download Your New Patient Paperwork</a>
 

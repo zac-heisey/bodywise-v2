@@ -48,13 +48,13 @@ We accept cash, check, debit card, and credit card. We are happy to discuss paym
 Dress comfortably with clothes that allow easy access for the therapist to examine your problem areas. For treatments, loose fitting clothes that are comfortable for gentle exercises and supportive sneakers are often good choices to wear.
 
 ## How Long Will My Physical Therapy Session Last?
-Each [physical therapy session](/) will last ~45 minutes. The amount of time will be based on your specific needs, and your therapist will discuss this with you.
+Each [physical therapy session](/) will last 40 minutes. The amount of time will be based on your specific needs, and your therapist will discuss this with you.
 
 ## How Many Sessions Will I Have?
 Each patient’s diagnosis is different, so together with your referring physician, your therapist will develop a plan of care that is right for you. Your plan of care and number of visits will be determined during your first visit and explained to you by your physical therapist.
 
 ## What Types of Education and Training Do Your Physical Therapists Have?
-hysical therapists have years of university level training in anatomy, physiology, kinesiology (study of joint movement), neurology, and many of the other medical sciences. [Our physical therapists](/our-staff/) have graduated from accredited physical therapy programs and are state licensed. Depending on the university, the physical therapy program is either a masters or doctorate level degree. Rest assured, your therapist is well trained to evaluate and treat your condition.
+Physical therapists have years of university level training in anatomy, physiology, kinesiology (study of joint movement), neurology, and many of the other medical sciences. [Our physical therapists](/our-staff/) have graduated from accredited physical therapy programs and are state licensed. Depending on the university, the physical therapy program is either a masters or doctorate level degree. Rest assured, your therapist is well trained to evaluate and treat your condition.
 
 ## Do You Offer Programs for Me Once I'm Better?
 Yes, once you have completed your therapy sessions, your therapist will review your continuing home program.  We can make arrangements to meet you at your gym to work with you on determining what equipment may be beneficial, and what exercises would be helpful in your continued recovery.
