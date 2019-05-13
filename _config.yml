@@ -9,8 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bodywise Physical Therapy is committed to offering the highest level of physical therapy treatment to patients in Boulder, Broomfield, and Westminster.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bodywisept.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+google_analytics: UA-124422113-1
 collections:
   team-members:
     title: Team Members
