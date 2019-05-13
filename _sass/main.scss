@@ -1201,6 +1201,11 @@
 						@include vendor('transition', ('background-color #{_duration(transition)} ease-in-out', 'color #{_duration(transition)} ease-in-out'));
 						color: _palette(fg-bold);
 						text-decoration: none;
+
+						&:hover {
+							color: _palette(accent1, bg);
+						}
+
 					}
 
 					&:first-child {
@@ -1308,6 +1313,11 @@
 				line-height: 2.75em;
 				text-decoration: none;
 				text-transform: uppercase;
+
+				&:hover {
+					color: _palette(accent1, bg);
+				}
+				
 			}
 
 			&:first-child {
