@@ -35,5 +35,3 @@ fields:
   name: categories
   label: Categories
   description: Post categories
-pages:
-- _posts/forestry-test-post.md
