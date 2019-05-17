@@ -1,6 +1,5 @@
 # Netlify Dev Domain Redirects
 https://bodywisept.netlify.com/*  https://bodywisept.com/:splat  301!
-http://bodywisept.netlify.com/*  http://bodywisept.com/:splat  301!
 
 # Page Redirects
 /location/physical-therapy-boulder/  /locations/  301
