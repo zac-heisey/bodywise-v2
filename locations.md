@@ -1,5 +1,5 @@
 ---
-title: Bodywise Physical Therapy Locations
+title: Locations
 layout: page
 subtitle: Three Colorado Offices to Serve You - Boulder, Broomfield, and Westminster
 description: Bodywise Physical Therapy provides three convenient locations in Colorado.
@@ -8,7 +8,6 @@ sidebar: false
 menu:
   about:
     weight: 2
-    title: Locations
 
 ---
 <div id="locations">
