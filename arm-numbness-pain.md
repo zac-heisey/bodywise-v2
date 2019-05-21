@@ -2,16 +2,15 @@
 title: Arm Numbness & Pain
 layout: page
 subtitle: Physical Therapy for Arm Numbness, Carpal Tunnel, and More
-description: Bodywise Physical Therapy treats patients with arm numbness & pain caused by Carpal Tunnel Syndrome, arthritis, tendonitis, and more.
+description: Bodywise Physical Therapy treats patients with arm numbness & pain caused
+  by Carpal Tunnel Syndrome, arthritis, tendonitis, and more.
 sidebar: false
-image: /images/arm-numbness-pain.jpg
+image: "/images/arm-numbness-pain.jpg"
 menu:
   symptoms:
     weight: 7
+
 ---
-
-Because your hands and arms are so interconnected, a task or injury that involves one part, such as your lower arm, can end up causing everything from finger numbness to elbow pain.
-
 **Carpal Tunnel Syndrome**
 
 Typing, writing and jobs that require repetitive lifting continue to be a threat for developing the condition known as Carpal Tunnel Syndrome (CTS). The debilitating syndrome is named after the tunnel surrounding the nerves connecting your wrist, hand and fingers. Overly stressing the median nerve can lead to the aching wrist and numb fingers associated with CTS. Often, hormone fluctuations can put patients more at risk for CTS, so pregnant women, and women between the ages of 34-60, may be more likely to experience these injuries.
@@ -20,16 +19,18 @@ Early intervention — especially [physical therapy](/) — may help you avoid s
 
 In addition, our dedicated team of [physical therapists](/our-staff/) will show you techniques to stretch your carpal ligaments and how to perform your repetitive tasks more safely, in order to prevent re-injury.
 
+Because your hands and arms are so interconnected, a task or injury that involves one part, such as your lower arm, can end up causing everything from finger numbness to elbow pain.
+
 **Additional Conditions**
 
 While CTS is a common issue for which patients seek our help, we treat numerous conditions affecting the hands, elbows and wrists. Among them are:
 
-- Joint pain
-- Arthritis
-- [Tendonitis](/tendonitis/)
-- Tennis/Golf Elbow
-- Fractures
-- Sprains
+* Joint pain
+* Arthritis
+* [Tendonitis](/tendonitis/)
+* Tennis/Golf Elbow
+* Fractures
+* Sprains
 
 **How are these conditions treated?**
 
