@@ -1,11 +1,13 @@
 ---
-title: Contact Bodywise Physical Therapy
+title: Contact Information
 layout: page
-subtitle: Schedule an Appointment or Get in Touch with Us in Boulder, Broomfield, or Westminster
-description: Contact the team at Bodywise Physical Therapy to schedule your appointment in Boulder, Broomfield, or Westminster today.
+subtitle: Schedule an Appointment or Get in Touch with Us in Boulder, Broomfield,
+  or Westminster
+description: Contact the team at Bodywise Physical Therapy to schedule your appointment
+  in Boulder, Broomfield, or Westminster today.
 sidebar: false
----
 
+---
 <!-- Google reCAPTCHA -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
