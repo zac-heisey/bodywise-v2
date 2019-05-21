@@ -1,5 +1,5 @@
 ---
-title: Contact Information
+title: Contact Us
 layout: page
 subtitle: Schedule an Appointment or Get in Touch with Us in Boulder, Broomfield,
   or Westminster
