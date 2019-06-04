@@ -14,7 +14,7 @@ collections:
   team-members:
     title: Team Members
     output: false
-  location:
+  locations:
     title: Locations
     output: true
 defaults:

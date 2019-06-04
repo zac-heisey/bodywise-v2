@@ -16,7 +16,7 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: _location
+  path: _locations
   label: Locations
   create: documents
   match: "**/*"
