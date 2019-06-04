@@ -13,6 +13,13 @@ layout: page
   {% endif %}
 {% endfor %}
 
+<!-- Location Pages -->
+{% for page in site.locations %}
+  <li>
+    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  </li>
+{% endfor %}
+
 ## Blog Posts
 {% for post in site.posts %}
 <li>

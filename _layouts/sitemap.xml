@@ -18,7 +18,16 @@
   {% endif %}
   {% endfor %}
 
-  <!-- Blog Posts -->
+<!-- Location Pages -->
+  {% for page in site.locations %}
+  <url>
+    <loc>{{ page.url | prepend: site.url }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  {% endfor %}
+
+<!-- Blog Posts -->
   {% for post in site.posts %}
   <url>
     <loc>{{ post.url | prepend: site.url }}</loc>
