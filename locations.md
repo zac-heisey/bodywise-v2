@@ -10,11 +10,12 @@ menu:
     weight: 2
 
 ---
+
 <div id="locations">
   {% for location in site.locations %}
   <div class="location-info">
     <iframe src="{{ location.google-maps-embed }}" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-    <h3 class="location-name">{{ location.name }}</h3>
+    <h3 class="location-name"><a href="{{ location.permalink }}">{{ location.title }}</a></h3>
     <address>
       <p>{{ location.address-1 }}<br>
       {{ location.address-2 }}<br>
