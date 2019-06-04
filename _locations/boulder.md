@@ -1,7 +1,7 @@
 ---
 title: Boulder Physical Therapy
 subtitle: Expert Physical Therapy in Boulder, CO
-description:
+description: Personalized, 1-on-1 physical therapy treatment in Boulder, CO at Bodywise. Visit our Broomfield physical therapy office today.
 address-1: 4440 Arapahoe Ave.
 address-2: Suite 101
 city-state-zip: Boulder, CO 80303
