@@ -21,5 +21,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- test-page.md
