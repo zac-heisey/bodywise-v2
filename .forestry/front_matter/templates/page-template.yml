@@ -21,12 +21,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  hidden: true
-  default: page
 pages:
 - test-page.md
