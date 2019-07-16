@@ -149,6 +149,7 @@
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+		font-size: 1.05rem;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1317,7 +1318,7 @@
 				&:hover {
 					color: _palette(accent1, bg);
 				}
-				
+
 			}
 
 			&:first-child {
