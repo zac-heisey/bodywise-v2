@@ -3,7 +3,7 @@ title: Westminster Physical Therapy
 subtitle: Bodywise Physical Therapy in Westminster, CO
 description: Bodywise Physical Therapy offers 1-on-1 physical therapy in Westminster, CO. Visit our Westminster physical therapy office today.
 address-1: 10055 Westmoor Dr.
-address-2: Suite 210
+address-2: Unit 185
 city-state-zip: Westminster, CO 80021
 phone: "(303) 444-2529"
 fax: "(303) 444-2563"
