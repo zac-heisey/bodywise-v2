@@ -7,15 +7,19 @@ image: "/images/Deadlift Best Friend Pic Blog.png"
 categories: []
 
 ---
-**Why the Deadlift Should be Your New Best Friend**
+## **Why the Deadlift Should be Your New Best Friend**
 
-Poor posture? Low back pain? Weak hips? Powered down?
+Do you have poor posture? Pain in your lower back? Weak hips? Lack of energy?
 
-The deadlift is one of the most effective exercises for developing pure strength and athleticism. With proper form and technique, it can help improve your posture, decrease your back pain and increase your overall strength and power. The deadlift is one of the few exercises that targets the entire posterior chain and challenges it to work in coordination rather than isolating its components making it an excellent functional motion.
+The **deadlift is one of the most effective exercises for developing pure strength and athleticism**. With proper form and technique, it can help improve your posture, decrease your back pain and increase your overall strength and power. The deadlift is one of the few exercises that targets the entire posterior chain and challenges it to work in coordination rather than isolating its components making it an excellent functional motion.
 
-How to get started:
+### How to get started:
 
-Form is everything! Here are some key points to remember.
+Remember.......
+
+**FORM IS EVERYTHING**! 
+
+Here are some **key points** to keep in mind: 
 
 * Keep feet hip width apart, grip the bar just beyond your legs
 * Maintain an overhand grip with wrists neutral
@@ -23,7 +27,7 @@ Form is everything! Here are some key points to remember.
 * Keep your shoulders down and back with lats engaged
 * The bar should stay in contact with your legs throughout the motion
 
-Things to avoid:
+**Things to AVOID:**
 
 * Don’t let your hips drop too low- keep them between your head and your knees
 * Don’t let you spine round over- think about driving the floor away from your body as you stand up
@@ -31,4 +35,4 @@ Things to avoid:
 * Keep the bar in a straight line from floor to hips
 * Don’t overextend your hips in the full extended stance
 
-> Author Halley Tollner, DPT has been treating as a Licensed Physical Therapist for about five years. She is one of Bodywise's best!
+> Author Halley Tollner, DPT, one of Bodywise PT's finest, has been treating as a Licensed Physical Therapist for about five years.
