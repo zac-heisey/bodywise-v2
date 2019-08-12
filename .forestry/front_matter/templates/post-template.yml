@@ -35,3 +35,5 @@ fields:
   name: categories
   label: Categories
   description: Post categories
+pages:
+- _posts/deadlifts-your-new-best-friend.md
