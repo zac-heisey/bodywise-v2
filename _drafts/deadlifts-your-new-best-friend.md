@@ -7,15 +7,15 @@ image: "/images/Deadlift Best Friend Pic Blog.png"
 categories: []
 
 ---
-## **Why the Deadlift Should be Your New Best Friend**
+#### **Why the Deadlift Should be Your New Best Friend...**
 
 Do you have poor posture? Pain in your lower back? Weak hips? Lack of energy?
 
 The **deadlift is one of the most effective exercises for developing pure strength and athleticism**. With proper form and technique, it can help improve your posture, decrease your back pain and increase your overall strength and power. The deadlift is one of the few exercises that targets the entire posterior chain and challenges it to work in coordination rather than isolating its components making it an excellent functional motion.
 
-### How to get started:
+#### HOW TO GET STARTED:
 
-Remember.......
+Just Remember.......
 
 **FORM IS EVERYTHING**! 
 
@@ -35,4 +35,6 @@ Here are some **key points** to keep in mind:
 * Keep the bar in a straight line from floor to hips
 * Don’t overextend your hips in the full extended stance
 
-> Author Halley Tollner, DPT, one of Bodywise PT's finest, has been treating as a Licensed Physical Therapist for about five years.
+> 
+>
+> Author Halley Tollner, DPT, one of Bodywise PT's finest, has been treating as a Licensed Physical Therapist for about five years. Check out her bio in the 'Our Team' page under "About Us" on the home screen. 
