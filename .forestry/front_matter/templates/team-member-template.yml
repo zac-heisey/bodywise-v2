@@ -12,6 +12,7 @@ fields:
   type: file
   hidden: false
   default: ''
+  description: Crop to 228 x 246 pixels
 - name: role
   label: Role
   type: text
