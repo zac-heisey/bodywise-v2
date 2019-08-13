@@ -1,6 +1,6 @@
 ---
 name: Frances "Fran" Lawrence
-image: "/images/fullsizeoutput_693.jpeg"
+image: "/images/IMG_0013.jpg"
 role: Lead Admin/Office Manager
 
 ---
