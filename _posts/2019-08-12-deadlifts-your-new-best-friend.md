@@ -1,7 +1,7 @@
 ---
 author: Halley Tollner
-title: 'DEADLIFTS: Your new best friend!!'
-date: 2019-08-12 14:00:00 -0600
+title: 'DEADLIFTS: Your New Best friend!!'
+date: 2019-08-12T20:00:00.000+00:00
 description: Deadlifts for poor posture, back pain, bad form
 image: "/images/deadlift-best-friend.png"
 categories: []
