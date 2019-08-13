@@ -1,6 +1,6 @@
 ---
 name: Martina Young
-image: "/images/7583918480_IMG_0232.jpg"
+image: "/images/martina-young.jpg"
 role: DPT
 
 ---

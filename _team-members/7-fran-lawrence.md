@@ -1,6 +1,5 @@
 ---
-name: Frances "Fran" Lawrence
-image: "/images/IMG_0013.jpg"
+name: Fran Lawrence
+image: "/images/fran-lawrence.jpg"
 role: Lead Admin/Office Manager
-
 ---
