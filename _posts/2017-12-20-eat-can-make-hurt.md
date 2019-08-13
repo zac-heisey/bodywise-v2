@@ -3,7 +3,7 @@ title: What you eat can make you hurt more…
 date: 2017-12-20T15:24:57+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2017/03/post2.jpg
+image:
 categories:
   - Health and Wellness
 ---

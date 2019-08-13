@@ -3,7 +3,7 @@ title: How to Stay Active at Work
 date: 2018-01-20T11:21:34+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2017/08/active-at-work-1.jpg
+image:
 categories:
   - Health and Wellness
 ---

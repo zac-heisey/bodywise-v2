@@ -3,7 +3,7 @@ title: Is Your Back or Neck Pain from a Herniated Disc?
 date: 2018-05-20T18:40:01+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2018/06/herniated-disc.jpg
+image: /images/herniated-disc.jpg
 categories:
   - Health and Wellness
 ---

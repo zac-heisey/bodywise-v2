@@ -3,7 +3,7 @@ title: Without Intervention, Your Lower Back Pain Could Be Here to Stay
 date: 2018-06-10T18:45:07+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2018/06/therapy-for-low-back-pain.jpg
+image: /images/low-back-pain-sciatica.jpg
 categories:
   - Health and Wellness
 ---

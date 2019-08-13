@@ -3,7 +3,7 @@ title: How to Put the Spring Back in Your Step
 date: 2018-04-20T19:40:05+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2018/04/spring-in-step.jpg
+image:
 categories:
   - Health and Wellness
 ---

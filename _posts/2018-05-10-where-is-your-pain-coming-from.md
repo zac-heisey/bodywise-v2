@@ -3,7 +3,7 @@ title: Where Is Your Pain Coming From?
 date: 2018-05-10T18:32:26+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2018/06/pain.jpg
+image:
 categories:
   - Health and Wellness
 ---

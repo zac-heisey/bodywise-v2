@@ -3,7 +3,7 @@ title: 'Arthritis Pain Sufferer? Find Out How to Stop the Pain &#038; Get Relief
 date: 2018-04-10T19:36:02+00:00
 author: Bodywise PT
 layout: post
-image: /wp-content/uploads/2018/04/Arthritis-1.jpg
+image:
 categories:
   - Health and Wellness
 ---
