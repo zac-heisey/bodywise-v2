@@ -3,7 +3,7 @@ author: Halley Tollner
 title: 'DEADLIFTS: Your new best friend!!'
 date: 2019-08-12 14:00:00 -0600
 description: Deadlifts for poor posture, back pain, bad form
-image: "/images/Deadlift Best Friend Pic Blog.png"
+image: "/images/deadlift-best-friend.png"
 categories: []
 
 ---
@@ -17,9 +17,9 @@ The **deadlift is one of the most effective exercises for developing pure streng
 
 Just Remember.......
 
-**FORM IS EVERYTHING**! 
+**FORM IS EVERYTHING**!
 
-Here are some **key points** to keep in mind: 
+Here are some **key points** to keep in mind:
 
 * Keep feet hip width apart, grip the bar just beyond your legs
 * Maintain an overhand grip with wrists neutral
@@ -35,6 +35,4 @@ Here are some **key points** to keep in mind:
 * Keep the bar in a straight line from floor to hips
 * Don’t overextend your hips in the full extended stance
 
-> 
->
-> Author Halley Tollner, DPT, one of Bodywise PT's finest, has been treating as a Licensed Physical Therapist for about five years. Check out her bio in the 'Our Team' page under "About Us" on the home screen. 
+> Author Halley Tollner, DPT, one of Bodywise PT's finest, has been treating as a Licensed Physical Therapist for about five years. Check out her bio in the 'Our Team' page under "About Us" on the home screen.
