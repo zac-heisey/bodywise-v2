@@ -1,8 +1,9 @@
-# Netlify Dev Domain Redirects
+### NETLIFY DEV DOMAIN REDIRECTS
 https://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 http://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 
-# Page Redirects
+### PAGE & BLOG REDIRECTS
+/our-practice/	/	301
 /5722	/	301
 /corporate-services*	/	301
 /physical-therapy-services/4602/	/	301
@@ -11,7 +12,9 @@ http://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 /physical-therapy-treatments/posture-body-mechanics-training/	/	301
 /services/poor-posture/	/	301
 /services/weaknessdeconditioning/	/	301
-/facility-cat*	/ 	301
+/facility-cat*	/	301
+/terms-of-use/	/	301
+/back-book/	/	301
 /blog/4602/page/2/	/blog/	301
 /blog/4602/page/4/	/blog/	301
 /request-an-appointment/	/contact-us/	301
@@ -21,6 +24,7 @@ http://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 /condition/poor-posture-forward-head-syndrome/	/headaches-tmj/	301
 /how-to-put-the-spring-back-in-your-step/spring-in-step/	/how-to-put-the-spring-back-in-your-step/	301
 /speciality-techniques/manual-therapy/	/iastm/	301
+/patient-information/insurance-plans/	/insurance-plans/	301
 /condition/meniscus-injury/	/knee-pain/	301
 /condition/total-knee-replacement/	/knee-pain/	301
 /physical-therapy-services/knee-pain/	/knee-pain/	301
@@ -32,9 +36,8 @@ http://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 /services/sciatica/	/low-back-pain-sciatica/	301
 /neck-tips/scapula-man-anatomy-isolated-on-white/	/neck-pain-whiplash/	301
 /patient-information/patient-survey/	/new-patient-info-forms/	301
-/our staff/cathy-mcduff/	/our-staff/	301
-/our staff/laura-schmonsees/	/our-staff/	301
-/our staff/martina-young/	/our-staff/	301
+/our%20staff/*	/our-staff/	301
+/our-staff/*	/our-staff/	301
 /testimonial*	/patient-testimonials/	301
 /services/post-surgical-rehabilitation/	/post-surgical-treatment/	301
 /physical-therapy-services/shoulder-pain-rotator-cuff/4602	/shoulder-pain/	301
@@ -44,7 +47,3 @@ http://bodywise.netlify.com/*  https://bodywisept.com/:splat  301!
 /services/sports-injury/	/sports-injuries/	301
 /physical-therapy-services/tendonitis/4602/4602	/tendonitis/	301
 /physical-therapy-treatments/therapeutic-massage-therapy/	/trigger-point-therapy/	301
-
-
-
-# Blog Redirects
