@@ -30,7 +30,7 @@ sidebar: false
     <div class="col-6 col-12-medium col-12-small">
       <label for="locations">Select a Location</label>
       <select class="locations" name="locations" id="locations" required>
-        <option value="" disabled selected>-- Choose Location --
+        <option value="" disabled selected>-- Choose Location --</option>
         <option value="Boulder">Boulder</option>
         <option value="Broomfield">Broomfield</option>
         <option value="Westminster">Westminster</option>
@@ -51,5 +51,5 @@ sidebar: false
 
       <button type="submit" class="button primary">Get In Touch</button>
     </div>
-  </div>  
+  </div>
 </form>
