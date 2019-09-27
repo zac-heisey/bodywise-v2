@@ -25,3 +25,6 @@ layout: page
 [Bodywise Physical Therapy](/) offers expert Boulder physical therapy services and treatment. Our team of [experienced physical therapists](/our-staff/) and wellness professionals provides personalized physical therapy treatment to patients in Boulder and surrounding areas.
 
 Whether you’re dealing with a nagging injury or you're looking for post-op rehab treatment, Bodywise Physical Therapy in Boulder, CO has you covered. We also offer [physical therapy in Westminster](/location/physical-therapy-westminster/) and [physical therapy in Broomfield](/location/physical-therapy-broomfield/).
+
+<!-- Contact Button -->
+<a href="/contact-us/" class="button primary">Visit Us in Boulder</a>

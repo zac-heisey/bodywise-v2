@@ -25,3 +25,6 @@ layout: page
 Whether you’re dealing with a nagging injury or you're looking for post-op rehab treatment, the [Bodywise Physical Therapy](/) team in Westminster has you covered. Our [experienced physical therapists](/our-staff/) provide personalized physical therapy in Westminster and surrounding areas.
 
 If a nagging injury or slow recovery is preventing you from hiking, biking, climbing, or doing what you love, Bodywise PT can help. We have offices providing [physical therapy in Westminster](/location/physical-therapy-westminster/) and [physical therapy in Boulder](/location/physical-therapy-boulder/), giving you plenty of options to visit us.
+
+<!-- Contact Button -->
+<a href="/contact-us/" class="button primary">Visit Us in Westminster</a>
