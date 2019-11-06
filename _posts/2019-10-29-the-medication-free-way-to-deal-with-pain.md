@@ -21,14 +21,12 @@ So [what is pain](https://kidshealth.org/en/kids/pain.html)? We all know what it
 
 We all know that pain can take many forms. Sometimes it’s a soreness from a tough workout. Sometimes it’s a stinging papercut. Sometimes it’s a dull pounding headache. For our purposes, we’ll break down pain into two main categories: acute pain and chronic pain.
 
-**Acute Pain  
-**  
+**Acute Pain** 
 Acute pain is the sensation you feel immediately after being hurt. From an evolutionary perspective, pain has kept many a Neanderthal alive by creating a negative association with touching fire or hugging a cactus. It’s how we’re able to learn that the dangerous thing we just did is actually dangerous.
 
 But acute pain can also be a surprise. If you’ve ever leaned over to pick something up, tweaked a major muscle in your back, and for weeks after hobbled around like Quasimodo in Notre Dame, you know this is true. This is the type of acute pain that can easily turn into chronic pain if improperly treated.
 
-**Chronic Pain  
-**
+**Chronic Pain** 
 Chronic pain is [pain that lasts for 3 to 6 months](https://nccih.nih.gov/health/pain/chronic.htm#hed2), or pain that has still not improved long after the normal amount of time it should take to heal. People who experience fibromyalgia, arthritis, migraines, and other painful conditions that last long-term. Sometimes chronic pain has a clear cause. Many times, pain becomes chronic when an acute injury heals improperly. Other times, pain doesn’t recede because we focus on treating the feelings of pain instead of the underlying cause.
 
 ## Treating the Symptom, Not the Cause
@@ -41,16 +39,14 @@ Unfortunately, painkillers like these don’t actually treat the underlying caus
 
 ## Alternative Methods to Treat the Causes of Pain
 
-**Physiological Methods  
-**
+**Physiological Methods** 
 According to the National Center for Complementary and Integrative Health, chronic pain is more commonly being treated in ways not traditionally associated with Western medicine. From NIH.gov: “A growing body of evidence suggests that some complementary approaches, such as acupuncture, hypnosis, massage, mindfulness meditation, spinal manipulation, tai chi, and yoga, may help to manage some painful conditions.”
 
 Generally, these approaches won’t be helpful to you to help reduce acute pain. Still, you should consider practicing these treatment methods even when you don’t feel pain to help prevent unnecessary chronic pain from affecting your quality of life. Additionally, these alternative treatments have been proven effective in treating general muscle pain, lower back pain, and even arthritis.
 
 An appointment with a physical therapist who is experienced in a variety of treatment methods can help you determine which of these alternative strategies might help with your specific condition. Obviously, if you have trypanophobia, you will steer clear of acupuncture at all costs and might be more interested in the benefits of tai chi or yoga.
 
-**Nutritional Methods  
-**
+**Nutritional Methods** 
 When yoga, acupuncture, or [trigger point therapy](/trigger-point-therapy/) aren’t enough to reduce chronic pain on their own, consider some changes to your diet. There are many common herbs and spices that you may already have in your home that are shown to reduce pain, decrease inflammation, or help disrupt medical issues like irritable bowel syndrome and migraines.
 
 * Cayenne Pepper: The research shows that topical ointments made of [cayenne pepper have reduced pain](https://www.ncbi.nlm.nih.gov/pubmed/25536022) at rates better than a placebo.
@@ -64,7 +60,7 @@ Regardless, natural remedies and alternative pain management techniques still fa
 
 No matter how careful we are or how comprehensive your pain management plan is, pain is something you may always have to deal with. It’s up to you whether to treat the symptom and use medication, treat the cause and endure the pain that comes with it - or talk to your primary care physician and physical therapist to create a plan that blends the best of both worlds.
 
-***
+---
 
 **Relevant Sources**
 
