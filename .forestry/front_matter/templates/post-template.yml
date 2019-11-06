@@ -36,5 +36,6 @@ fields:
   label: Categories
   description: Post categories
 pages:
+- _posts/stretching-the-truth-discussing-4-common-misconceptions-about-stretching.md
 - _posts/the-medication-free-way-to-deal-with-pain.md
 - _posts/2019-08-12-deadlifts-your-new-best-friend.md
