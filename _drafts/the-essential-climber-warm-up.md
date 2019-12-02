@@ -20,7 +20,9 @@ If you’re outside, this can obviously be more complicated but do your best to 
 
 Good luck to you! Send all your projects and stay safe out there!
 
- 1. 50 jumping jacks![](/images/image7.jpeg)
+ 1. 50 jumping jacks
+
+    ![](/images/image7.jpeg)
  2. 20 body weight squats
 
     ![](/images/image5.jpeg)
@@ -37,8 +39,6 @@ Good luck to you! Send all your projects and stay safe out there!
 
     ![](/images/image9.jpeg)
  7. Reverse lunge, elbow to instep twist
-
-    ![](/images/image2-2-1.jpeg)
  8. Bow and arrow stretch
 
     ![](/images/image3.jpeg)
