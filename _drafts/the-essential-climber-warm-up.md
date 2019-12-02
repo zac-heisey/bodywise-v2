@@ -2,14 +2,13 @@
 author: Bodywise PT
 title: 'THE Essential CLIMBER Warm-up '
 date: 2019-12-02 00:00:00 -0700
-description: 'Injury prevention begins with a proper warm-up! Don’t skip this important
-  step!
-
-'
+description: "\n"
 image: "/images/climber-warm-up.jpg"
 categories: []
 
 ---
+Injury prevention begins with a proper warm-up! Don’t skip this important step!
+
 Climbers are notorious for not warming up properly before getting on to the project… We all know you’re supposed to warm up before exercising but how many of us actually do so? Why exactly IS it so important? What does a proper warm-up entail? And how does this differ from the gym to the outdoors?
 
 A warm-up should consist of a mix of cardiovascular exercises, joint mobilization, stretching and progressive functional loading related to the activity in which you are about to participate. The goal is to increase circulation, body temperature and heart rate and prepare the muscles for the movements they will be required to carry out in the upcoming session. And of course the ultimate goal is to NOT get hurt. A proper warm-up should take somewhere between 20-30 minutes in entirety and should range from 30-80% max intensity. Invest those minutes now and prevent the rehab hours later. Here’s some guidance to get you going.
