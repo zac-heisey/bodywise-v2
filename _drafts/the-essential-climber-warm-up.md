@@ -23,11 +23,11 @@ Good luck to you! Send all your projects and stay safe out there!
 ## 1) 50 jumping jacks
 
 ![](/images/image7.jpeg)
-    
+
 ## 2) 20 body weight squats
 
 ![](/images/image5.jpeg)
-    
+
 ## 3) 10 push ups
 
 ![](/images/image4.jpeg)
@@ -44,13 +44,15 @@ Good luck to you! Send all your projects and stay safe out there!
 
 ![](/images/image9.jpeg)
 
-## 7) Reverse lunge, elbow to instep twist
- 
+## 7) Reverse lunge, elbow to instep 
+
+## ![](/images/8895d03f7e3e3767cc419f8289785ad6.jpg)
+
 ## 8) Bow and arrow stretch
 
 ![](/images/image3.jpeg)
 
-## 9) Foam roller: thoracic mobility, chest opening, lats, legs, hips 
+## 9) Foam roller: thoracic mobility, chest opening, lats, legs, hips
 
 ![](/images/image1.jpeg)
 
