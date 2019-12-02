@@ -20,14 +20,29 @@ If you’re outside, this can obviously be more complicated but do your best to 
 
 Good luck to you! Send all your projects and stay safe out there!
 
-1. 50 jumping jacks
-2. 20 body weight squats
-3. 10 push ups
-4. 5 lateral lunges each direction
-5. 5 reverse lunges with thoracic rotation each side
-6. Plank step through with tricep push up
-7. Reverse lunge, elbow to instep twist
-8. Bow and arrow stretch
-9. Foam roller: thoracic mobility, chest opening, lats, legs, hips 
+ 1. 50 jumping jacks![](/images/image7.jpeg)
+ 2. 20 body weight squats
 
-   10\. 3 pull ups and 3 chin ups with focus on dynamic movement
+    ![](/images/image5.jpeg)
+ 3. 10 push ups
+
+    ![](/images/image4.jpeg)
+ 4. 5 lateral lunges each direction
+
+    ![](/images/image2.jpeg)
+ 5. 5 reverse lunges with thoracic rotation each side
+
+    ![](/images/image6.jpeg)
+ 6. Plank step through with tricep push up
+
+    ![](/images/image9.jpeg)
+ 7. Reverse lunge, elbow to instep twist
+
+    ![](/images/image2-2-1.jpeg)
+ 8. Bow and arrow stretch
+
+    ![](/images/image3.jpeg)
+ 9. Foam roller: thoracic mobility, chest opening, lats, legs, hips 
+
+    ![](/images/image1.jpeg)
+10. 3 pull ups and 3 chin ups with focus on dynamic movement 
