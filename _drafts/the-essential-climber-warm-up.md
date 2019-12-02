@@ -6,7 +6,7 @@ description: 'Injury prevention begins with a proper warm-up! Don’t skip this 
   step!
 
 '
-image: "/images/man-doing-outdoor-rock-climbing-1574216.jpg"
+image: "/images/climber-warm-up.jpg"
 categories: []
 
 ---
