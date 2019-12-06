@@ -68,7 +68,7 @@ One of the best parts about hiring a physical therapist is that he or she will c
 
 Finally, recognize that a qualified physical therapist is going to have a certification from the American Physical Therapy Association (APTA). Don't be afraid to ask for these credentials, as they're extremely important for your own safety. Once you've noted their certification, it's time to get to work and get in shape. 
 
-## Find a Physical Therapist You Can Rely On
+### Find a Physical Therapist You Can Rely On
 
 At this point in the article, you have a thorough understanding of how to find a physical therapist. There's no need to cut corners when it comes to prioritizing your physical health and wellness. That's why you'll take the above guidelines seriously. 
 
