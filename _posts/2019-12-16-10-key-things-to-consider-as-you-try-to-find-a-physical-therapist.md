@@ -1,7 +1,7 @@
 ---
 author: Bodywise PT
 title: 10 Key Things To Consider As You Try to Find a Physical Therapist
-date: 2019-12-10 22:00:00 -0700
+date: 2019-12-16 22:00:00 -0700
 description: 'Are you trying to find a physical therapist but you aren''t sure how
   to best go about it? Read this article to learn how to choose a good PT.
 
