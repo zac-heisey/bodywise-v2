@@ -3,7 +3,7 @@ author: Bodywise PT
 title: 'Nutrition and Recovery- You really are what you eat '
 date: 2019-12-24 00:00:00 -0700
 description: 'Inflammation and recovery '
-image: "/images/assorted-sliced-fruits-1128678.jpg"
+image: "/images/Fruit.jpg"
 categories: []
 
 ---
