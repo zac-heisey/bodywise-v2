@@ -3,7 +3,7 @@ author: Bodywise PT
 title: 'Functional Dry Needling: What is it and how can it help?'
 date: 2020-01-29 13:00:00 -0700
 description: "What is Dry Needling and how is it different from Acupuncture? \n"
-image: "/images/needling-hand.jpg"
+image: "/images/needling-hand-1.jpg"
 categories: []
 
 ---
