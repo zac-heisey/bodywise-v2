@@ -3,13 +3,12 @@ author: Bodywise PT
 title: 'Functional Dry Needling: What is it and how can it help?'
 date: 2020-01-29 13:00:00 -0700
 description: "What is Dry Needling and how is it different from Acupuncture? \n"
-image: ''
+image: "/images/needling-hand.jpg"
 categories: []
 
 ---
 ### What is Dry Needling and how is it different from Acupuncture?
 
-  
 Dry needling is the use of a solid filament needle, inserted into various tissues in the body, as implicated by a thorough client evaluation including history, behavior of symptoms, pain patterns, posture and movement assessment, muscular and articular function and a selection of orthopedic tests. This technique is rooted in western philosophy and based upon a knowledge of the muscular, articular and nervous systems and an understanding of orthopedic conditions in general.
 
 Acupuncture is an eastern medical practice requiring training in Traditional Chinese Medicine and involves a very different evaluative process including assessment of pulses, the tongue, the meridians and the flow of energy in the body. This directs their needle placements in a very different way with a different end goal in place.
@@ -46,12 +45,10 @@ One study showed the effectiveness of a single dry needling session into trigger
 
 Another evaluated the effects of a single session on chronic golfers elbow and also found significant improvements in pain and motion 1 week after which allowed him to progress with rehab program (2)
 
-Dry needling may be able to help you too! Come see us here at Bodywise to determine if Dry Needling is the right treatment option for you!
+#### Dry needling may be able to help you too! Come see us here at Bodywise to determine if Dry Needling is the right treatment option for you!
 
 ###### References:
 
 ###### Azizian, Morteza, et al. “Effects of Dry Needling on Tendon-Pulley Architecture, Pain and Hand Function in Patients with Trigger Finger: a Randomized Controlled Trial Study.” Journal of Physical Therapy Science, vol. 31, no. 4, 2019, pp. 295–298., doi:10.1589/jpts.31.295.
-
-###### 
 
 ###### Shariat, Ardalan, et al. “Acute Effects of One Session Dry Needling on a Chronic Golfer’s Elbow Disability.” Journal of Exercise Rehabilitation, vol. 14, no. 1, 2018, pp. 138–142., doi:10.12965/jer.1836008.004.
