@@ -1,9 +1,9 @@
 ---
 author: Bodywise PT
-title: 'Simple glute exercises '
+title: 'Simple exercises to turn on your glutes TODAY!  '
 date: 2020-02-07 00:00:00 -0700
 description: 'glute exercises '
-image: ''
+image: "/images/glute8.jpg"
 categories: []
 
 ---
