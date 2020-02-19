@@ -1,7 +1,7 @@
 ---
 author: Bodywise PT
 title: 'Get back on track this year with the Whole30 '
-date: 2020-02-17 00:00:00 -0700
+date: 2020-02-19 00:00:00 -0700
 description: 'new year whole30 '
 image: "/images/whole30food.jpg"
 categories: []
