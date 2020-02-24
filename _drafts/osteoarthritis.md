@@ -1,9 +1,9 @@
 ---
 author: Bodywise PT
-title: 'Osteoarthritis: '
+title: 'Osteoarthritis: ways to help delay the progression! '
 date: 2020-03-11 00:00:00 -0600
 description: Osteoarthritis
-image: ''
+image: "/images/arthritis.jpg"
 categories: []
 
 ---
