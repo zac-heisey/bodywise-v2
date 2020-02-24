@@ -1,6 +1,6 @@
 ---
 author: Bodywise PT
-title: 'What is Graston and how can it help you? '
+title: 'Graston: what can it do for you? '
 date: 2020-02-26 00:00:00 -0700
 description: graston IASTM
 image: ''
