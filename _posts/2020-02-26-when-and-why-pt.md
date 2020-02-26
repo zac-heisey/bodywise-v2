@@ -1,6 +1,6 @@
 ---
 author: Bodywise PT
-title: When and Why PT?
+title: 'Look no further: choose PT! '
 date: 2020-02-26 00:00:00 -0700
 description: Why PT
 image: "/images/whypt.jpg"
