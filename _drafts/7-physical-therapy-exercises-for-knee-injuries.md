@@ -8,27 +8,17 @@ image: "/images/knee-pain-physical-therapy.jpg"
 categories: []
 
 ---
-Have you sustained a knee injury? If you have, there's a great chance you will require physical therapy exercises for knee injuries.
-
-A physical therapist will examine and evaluate the problems and limitations of your limb and provide a rehabilitation plan.
-
-A rehab plan is likely to contain exercises that stretch, build strength, and relieve pain. This article will contain tips to get you started.
+Have you sustained a knee injury? If you have, there's a great chance you will require physical therapy exercises for knee injuries. A physical therapist will examine and evaluate the problems and limitations of your limb and provide a rehabilitation plan. A rehab plan is likely to contain exercises that stretch, build strength, and relieve pain. This article will contain tips to get you started.
 
 ## What Injuries Require Physical Therapy?
 
-Any injury to the knee poses a risk for your mobility. Sprains, strains, tears, and bruises can cause considerable pain and sometimes require surgery.
-
-Tearing ligaments almost always requires surgery and an extensive physical therapy program.
-
-Sprains and strains don't usually require surgeries but are painful nonetheless. They should be treated cautiously or they can become worse.
+Any injury to the knee poses a risk for your mobility. Sprains, strains, tears, and bruises can cause considerable pain and sometimes require surgery. Tearing ligaments almost always requires surgery and an extensive physical therapy program. Sprains and strains don't usually require surgeries but are painful nonetheless. They should be treated cautiously or they can become worse.
 
 If you injure your knee and don't understand the severity, seek professional medical attention immediately. They will diagnose your injury and get you started on the road to recovery.
 
 ## Seven Physical Therapy Exercises for Knee Injuries
 
-Your goals with the physical therapy exercises should be to strengthen your knees and [relieve pain](https://bodywisept.com/knee-pain/).
-
-The smartest way to exercise is by taking a holistic approach. Good nutrition, lots of sleep, and strengthening other areas of your body will vastly improve the health of your knees.
+Your goals with the physical therapy exercises should be to strengthen your knees and [relieve pain](https://bodywisept.com/knee-pain/). The smartest way to exercise is by taking a holistic approach. Good nutrition, lots of sleep, and strengthening other areas of your body will vastly improve the health of your knees.
 
 ## 1. Side Steps
 
@@ -40,9 +30,7 @@ This exercise requires a resistance band. They can be purchased at an affordable
 * Take shoulder-width steps to one side
 * After eight or nine steps, reverse direction
 
-The resistance band should make the steps slightly difficult, but not straining. If your knees buckle then the resistance band is too tight.
-
-If you fall forward, then your steps are too large. As time progresses, take more steps but not larger ones.
+The resistance band should make the steps slightly difficult, but not straining. If your knees buckle then the resistance band is too tight. If you fall forward, then your steps are too large. As time progresses, take more steps but not larger ones.
 
 Side steps strengthen the hips and glutes. Taking care of the muscles around your knee can help relieve pain.
 
@@ -56,9 +44,7 @@ The single-leg deadlift requires your muscles to help you balance.
 * Maintain knee control and reach down as far as you can
 * Slowly stand back up, repeat 5 times for each leg
 
-Your back should be straight the entire time. You should have full control of your knees while reaching down.
-
-The exercise is designed to improve the hamstrings, back, and core.
+Your back should be straight the entire time. You should have full control of your knees while reaching down. The exercise is designed to improve the hamstrings, back, and core.
 
 ## 3. The Backwards Skates
 
@@ -82,9 +68,7 @@ There are lots of ways to execute this exercise, but the focus should be on reha
 * You should be on the bench with both feet together
 * Step down with your right foot first followed by the left
 
-Do this at a slow and comfortable pace. The balance required will strengthen the muscles around the knee and in the back of your legs.
-
-Try three sets of 15 with breaks in between.
+Do this at a slow and comfortable pace. The balance required will strengthen the muscles around the knee and in the back of your legs. Try three sets of 15 with breaks in between.
 
 ## 5. Straight-Leg Lifts
 
@@ -122,16 +106,10 @@ The foam roller works great for any and all muscles. It loosens up the muscles t
 
 ## Cautious Approach
 
-The muscles in your leg will steadily get stronger, but that isn't the focus. Regaining confidence and stability in your knee is the main objective with these exercises.
-
-When you're cleared by a medical professional, you can start adding more strenuous exercises to your regimen.
+The muscles in your leg will steadily get stronger, but that isn't the focus. Regaining confidence and stability in your knee is the main objective with these exercises. When you're cleared by a medical professional, you can start adding more strenuous exercises to your regimen.
 
 Know the difference between being sore and being in pain. Soreness is a natural part of exercise recovery, but if there is sharp or persistent pain, then seek medical attention.
 
 ## Start the Road to Recovery
 
-Knee pain and injury can often rob us of joys in life. Recovering from treatment and surgery is a long road.
-
-Start these physical therapy exercises for knee injuries. You should [contact us](https://bodywisept.com/contact-us/) for medical guidance with your road to recovery.
-
-You'll be back to dancing and pain-free walks in no time.
+Knee pain and injury can often rob us of the joys in life. Recovering from treatment and surgery is a long road. Start these physical therapy exercises for knee injuries. You should [contact us](https://bodywisept.com/contact-us/) for medical guidance with your road to recovery. You'll be back to dancing and pain-free walks in no time!
