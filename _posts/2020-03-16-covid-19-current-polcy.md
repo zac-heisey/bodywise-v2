@@ -1,6 +1,6 @@
 ---
 author: Bodywise PT
-title: 'COVID-19: OUR CURRENT POLCY'
+title: 'COVID-19: Our Current Policy '
 date: 2020-03-16 00:00:00 -0600
 description: covid19
 image: ''
