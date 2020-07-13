@@ -10,7 +10,6 @@ menu:
     weight: 2
 
 ---
-
 <div id="locations">
   {% for location in site.locations %}
   <div class="location-info">

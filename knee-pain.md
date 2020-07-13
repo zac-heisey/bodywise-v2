@@ -2,14 +2,15 @@
 title: Knee Pain
 layout: page
 subtitle: Knee Pain Treatment in Boulder, Broomfield, and Westminster
-description: Knee pain treatment programs offered by physical therapists at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster. Visit us today!
+description: Knee pain treatment programs offered by physical therapists at Bodywise
+  Physical Therapy in Boulder, Broomfield, and Westminster. Visit us today!
 sidebar: false
-image: /images/knee-pain.jpg
+image: "/images/knee-pain.jpg"
 menu:
   symptoms:
     weight: 6
----
 
+---
 Your knees: they’re one of the largest joints in your body, connecting a large number of muscles, bones and ligaments. That means that much of the daily abuse that your body takes can ultimately impact your knees. And when these crucial joints begin to show strain, it can become difficult to move much at all — at least without pain.
 
 For that reason, it’s important to seek medical attention for knee pain as soon as possible. Often, [physical therapy](/) can be the key to avoiding surgery or prescription medication altogether or rebounding quickly from those less conservative treatments.

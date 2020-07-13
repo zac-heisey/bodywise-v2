@@ -2,13 +2,15 @@
 title: Patient Testimonials
 layout: page
 subtitle: See What Some of Our Past & Current Patients Have to Say
-description: Bodywise Physical Therapy is proud of the reputation we've built as a top physical therapy clinic in Colorado. Hear what some of our past patients have to say.
+description: Bodywise Physical Therapy is proud of the reputation we've built as a
+  top physical therapy clinic in Colorado. Hear what some of our past patients have
+  to say.
 sidebar: false
 menu:
   patient-info:
     weight: 2
----
 
+---
 > "Bodywise PT is in a great location, with easy parking and nice facilities. For my initial appointment, Julie was prompt in seeing me right away and going through a thorough evaluation. I have been active my whole life, but have also sought treatment for whiplash symptoms and runner’s injuries throughout my 30s and into my 40s. I can definitely recommend Bodywise for [physical therapy](/) as I feel comfortable with her level of knowledge and ability to translate effective treatment to clients. I also plan to utilize the massage therapy services that are available there as well." **- Tina L.**
 
 > "I appreciate the care and knowledge that Bodywise brings to healing the body especially for aging athletes like myself. Get to the start line healthy!" **- Todd S.**

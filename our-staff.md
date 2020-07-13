@@ -2,14 +2,14 @@
 title: Our Team
 layout: page
 subtitle: Meet the Bodywise Physical Therapy Team
-description: Our staff of certified therapists and physical therapy professionals provides treatment in Boulder, Broomfield, and Westminster.
+description: Our staff of certified therapists and physical therapy professionals
+  provides treatment in Boulder, Broomfield, and Westminster.
 sidebar: false
 menu:
   about:
     weight: 1
 
 ---
-
 <div id="team-members">
   {% for person in site.team-members %}
   <div class="member-info">

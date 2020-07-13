@@ -2,14 +2,15 @@
 title: Post-Surgical Treatment
 layout: page
 subtitle: Speed Up Your Recovery and Get Back to Doing What You Love
-description: Our team provides the best post-surgical treatment to get you back to 100%. Visit Bodywise Physical Therapy in Boulder, Broomfield, or Westminster today.
+description: Our team provides the best post-surgical treatment to get you back to
+  100%. Visit Bodywise Physical Therapy in Boulder, Broomfield, or Westminster today.
 sidebar: false
-image: /images/post-surgical-treatment.jpg
+image: "/images/post-surgical-treatment.jpg"
 menu:
   symptoms:
     weight: 9
----
 
+---
 As your surgery nears, getting through the operation itself is probably all that’s on your mind. But once you’ve successfully cleared that hurdle, you may find that the real work is about to begin. No matter how much of a miracle worker your surgeon is, that skillful work can be undone without proper post-surgical rehabilitation.
 
 The two main areas of concern for anyone after an operation are loss of strength and loss of mobility. Our [physical therapists](/our-staff/) work on these muscle and joint issues so that not only are the specific areas on which you were operated on given plenty of attention — but your overall endurance and flexibility will also be improved. This comprehensive approach to physical therapy after an operation allows you to bounce back more quickly.

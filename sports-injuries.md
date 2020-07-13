@@ -2,14 +2,16 @@
 title: Sports Injuries
 layout: page
 subtitle: Let Bodywise Physical Therapy Help You Get Back In the Game
-description: Bodywise Physical Therapy can help get you back to competition faster and stronger than before your injury. Book an appointment in Boulder, Broomfield, or Westminster today.
+description: Bodywise Physical Therapy can help get you back to competition faster
+  and stronger than before your injury. Book an appointment in Boulder, Broomfield,
+  or Westminster today.
 sidebar: false
-image: /images/sports-injuries.jpg
+image: "/images/sports-injuries.jpg"
 menu:
   symptoms:
     weight: 10
----
 
+---
 Whether you’re a weekend warrior or a serious athlete, sports injuries are a fact of life. A twisted ankle or an aching back can usually be treated at home. But for those breaks and tears that call for immediate medical attention, or those pains that just aren’t going away, [physical therapy](/) is often a critical part of the healing process.
 
 ## COMMON SPORTS INJURIES

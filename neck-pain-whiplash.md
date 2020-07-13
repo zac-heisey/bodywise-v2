@@ -2,14 +2,15 @@
 title: Neck Pain & Whiplash
 layout: page
 subtitle: Physical Therapy Treatment for Neck Pain and Whiplash
-description: Treat your neck pain & whiplash symptoms at Bodywise Physical Therapy. Visit us in Boulder, Broomfield, or Westminster today.
+description: Treat your neck pain & whiplash symptoms at Bodywise Physical Therapy.
+  Visit us in Boulder, Broomfield, or Westminster today.
 sidebar: false
-image: /images/neck-pain.jpg
+image: "/images/neck-pain.jpg"
 menu:
   symptoms:
     weight: 1
----
 
+---
 ## WHAT CONSTITUTES SERIOUS NECK AND HEAD PAIN?
 
 By the time people seek treatment for their neck pain and headaches, it’s not because of the occasional twinge, but rather for problems that have lasted several months. Common complaints include migraines and tension headaches, not being able to turn one’s head fully, all-over neck soreness, stabbing pain localized to one spot on the neck, or pain that radiates as far down as the fingertips.

@@ -2,14 +2,16 @@
 title: Dry Needling
 layout: page
 subtitle: Dry Needling Treatment at Bodywise Physical Therapy
-description: Dry Needling is a medical technique performed by skilled physical therapists to reduce pain, ease muscle tension, and improve mobility. Visit to Bodywise to learn more!
+description: Dry Needling is a medical technique performed by skilled physical therapists
+  to reduce pain, ease muscle tension, and improve mobility. Visit to Bodywise to
+  learn more!
 sidebar: false
-image:
+image: 
 menu:
   specialties:
     weight: 1
----
 
+---
 ## What is Dry Needling?
 
 Dry Needling is a medical technique performed by a skilled physical therapist to immediately reduce pain, muscle tension and improve mobility. It is used in a variety of musculoskeletal problems including, but not limited to: acute or chronic injuries, [headaches](/headaches-tmj/), [neck pain](/neck-pain-whiplash/), [back pain](/low-back-pain-sciatica/), [tendinitis](/tendonitis/), muscle spasms, sciatica, hip or [knee pain](/knee-pain/), muscle strains, fibromyalgia, tennis or golfer’s elbow, overuse injuries, and much more.

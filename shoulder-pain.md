@@ -2,14 +2,15 @@
 title: Shoulder Pain
 layout: page
 subtitle: Treat Shoulder Pain and Prevent Injuries with Bodywise
-description: Treat nagging shoulder injuries and prevent further damage with Bodywise Physical Therapy. Call or reach out today to schedule an appointment.
+description: Treat nagging shoulder injuries and prevent further damage with Bodywise
+  Physical Therapy. Call or reach out today to schedule an appointment.
 sidebar: false
-image: /images/shoulder-anatomy.jpg
+image: "/images/shoulder-anatomy.jpg"
 menu:
   symptoms:
     weight: 8
----
 
+---
 ## Make Your Shoulders Move Pain Free Again
 
 Do your shoulders nag and ache, or do they hurt when you try to reach overhead or behind you? Different types of shoulder pain, can tell you more of the underlying problem that is causing your pain.

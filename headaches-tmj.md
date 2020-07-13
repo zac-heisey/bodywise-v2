@@ -2,14 +2,15 @@
 title: Headaches & TMJ
 layout: page
 subtitle: Get Relief from Your Headaches & TMJ Issues at Bodywise
-description: Bodywise Physical Therapy can effectively treat chronic headaches and TMJ through a variety of physical therapy treatments. Visit us to learn more!
+description: Bodywise Physical Therapy can effectively treat chronic headaches and
+  TMJ through a variety of physical therapy treatments. Visit us to learn more!
 sidebar: false
-image: /images/headaches-tmj.jpg
+image: "/images/headaches-tmj.jpg"
 menu:
   symptoms:
     weight: 2
----
 
+---
 Have you ever wondered what triggered your headache in the first place? Headaches can sometimes be caused by a problem in the neck. These types of headaches are called cervicogenic headaches and are often misdiagnosed. Pain typically starts at the base of the neck and extends up and around the head. How does neck pain cause headaches? The roots of the three cervical nerves located at C1, C2 and C3 happen to share a pain nucleus with the trigeminal nerve. This nerve is a sensory nerve that transports messages from the face to the brain. There are shared nerve tracks.
 
 **Diagnosing Headaches**

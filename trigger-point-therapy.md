@@ -2,14 +2,15 @@
 title: Trigger Point Therapy
 layout: page
 subtitle: Treat Chronic Muscle Pain, Relieve Knots, and Release Stress
-description: Trigger point therapy at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster. Treat chronic muscle pain, relieve knots, and release stress.
+description: Trigger point therapy at Bodywise Physical Therapy in Boulder, Broomfield,
+  and Westminster. Treat chronic muscle pain, relieve knots, and release stress.
 sidebar: false
-image: /images/trigger-point-therapy.jpg
+image: "/images/trigger-point-therapy.jpg"
 menu:
   specialties:
     weight: 3
----
 
+---
 ## What is Trigger Point Therapy?
 
 Based on the science of how tissues in the muscles and joints are interconnected, trigger point therapy, or myofascial release, uses targeted pressure to provide relief for pain and stiffness. Fascia tissue gets its elasticity and strength from the fluid contained within each tissue’s tube-like shape. But when this fluid begins to dry up, the fascia lose their ability to help joints and muscles move smoothly, resulting in stiffness, pain and a greater chance of injury.

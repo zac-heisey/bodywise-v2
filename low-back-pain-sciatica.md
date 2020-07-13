@@ -2,14 +2,15 @@
 title: Low Back Pain & Sciatica
 layout: page
 subtitle: Treat Your Low Back Pain and Sciatica at Bodywise Physical Therapy
-description: Visit Bodywise Physical Therapy and get low back pain & sciatica relief today. Locations in Boulder, Broomfield, and Westminster.
+description: Visit Bodywise Physical Therapy and get low back pain & sciatica relief
+  today. Locations in Boulder, Broomfield, and Westminster.
 sidebar: false
-image: /images/low-back-pain-sciatica.jpg
+image: "/images/low-back-pain-sciatica.jpg"
 menu:
   symptoms:
     weight: 3
----
 
+---
 **How Do You Know if Your Back Pain Has Become Chronic?**
 
 All of us have pulled a back muscle at some point, needing to spend a day or two cozied up to an ice pack and a heating pad. But when serious back and lower body pain, as well as stiffness or numbness problems, make it hard to function.

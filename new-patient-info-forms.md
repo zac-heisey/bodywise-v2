@@ -2,13 +2,14 @@
 title: New Patient Info and Forms
 layout: page
 subtitle: Paperwork for New Bodywise Physical Therapy Patients
-description: New Bodywise Physical Therapy patient information, forms, and required paperwork.
+description: New Bodywise Physical Therapy patient information, forms, and required
+  paperwork.
 sidebar: false
 menu:
   patient-info:
     weight: 1
----
 
+---
 ## Welcome to Bodywise Physical Therapy
 
 We are here to help you enjoy your life, pain-free! To make a convenient appointment, simply call us today **(303) 444-2529**. Our practice is dedicated to helping our patients identify the cause of their pain and create a custom treatment program that will allow them to return to normal activities pain-free.

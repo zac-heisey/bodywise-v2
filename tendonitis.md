@@ -2,14 +2,15 @@
 title: Tendonitis
 layout: page
 subtitle: Physical Therapy for Tendonitis at Bodywise
-description: Tendonitis treatment in Boulder, Broomfield, and Westminster at Bodywise Physical Therapy. Relieve tendonitis with physical therapy treatment.
+description: Tendonitis treatment in Boulder, Broomfield, and Westminster at Bodywise
+  Physical Therapy. Relieve tendonitis with physical therapy treatment.
 sidebar: false
-image: /images/tendonitis.jpg
+image: "/images/tendonitis.jpg"
 menu:
   symptoms:
     weight: 5
----
 
+---
 ## WHY ARE TENDONITIS SO COMMON?
 
 Our feet bear the brunt of everything we do in our daily lives once we’re upright. They absorb the shock impact of all of the steps, stumbles and heavy jogging strikes that we ask of them. And, of course, we often “ask” this while wearing high heels, or other footwear with virtually no support where it’s needed.

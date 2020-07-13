@@ -2,14 +2,15 @@
 title: IASTM
 layout: page
 subtitle: Promote Healing and Decrease Inflammation with IASTM Treatment
-description: The physical therapists at Bodywise Physical Therapy in Boulder, Broomfield, and Westminster use IASTM to decrease inflammation and promote healing.
+description: The physical therapists at Bodywise Physical Therapy in Boulder, Broomfield,
+  and Westminster use IASTM to decrease inflammation and promote healing.
 sidebar: false
-image: /images/iastm.jpg
+image: "/images/iastm.jpg"
 menu:
   specialties:
     weight: 2
----
 
+---
 ## What is IASTM?
 
 Instrument-assisted soft tissue mobilization (IASTM) is a manual technique that uses a tool with an edge. Your therapist can perform IASTM using a variety of pressures and speeds to help break up adhesions, stimulate healing, and facilitate a contraction (turn a muscle on), or inhibit a muscle (turn a muscle off).
