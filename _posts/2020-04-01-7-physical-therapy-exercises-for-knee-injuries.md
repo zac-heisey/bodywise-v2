@@ -1,7 +1,7 @@
 ---
 author: Bodywise PT
 title: 7 Physical Therapy Exercises for Knee Injuries
-date: 2020-03-31 22:00:00 -0600
+date: 2020-04-01T04:00:00.000+00:00
 description: If you've injured your knee, you'll likely need physical therapy. Learn
   seven physical therapy exercises for knee injuries you might be need to do.
 image: "/images/knee-pain-physical-therapy.jpg"
