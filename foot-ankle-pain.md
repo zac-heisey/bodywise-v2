@@ -6,7 +6,7 @@ description: Bodywise Physical Therapy provides foot & ankle pain treatment in B
   Broomfield, and Westminster. Strengthen your ankles and improve chronic foot pain
   today.
 sidebar: false
-image: "/images/physical-therapy-injury-recovery.jpg"
+image: "/images/foot-ankle-pain.jpg"
 menu:
   symptoms:
     weight: 4
