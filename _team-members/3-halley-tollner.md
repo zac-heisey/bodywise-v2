@@ -1,7 +1,7 @@
 ---
 name: Halley Tollner
 image: "/images/halley-tollner.jpg"
-role: DPT
+role: DPT, CNC
 
 ---
 Halley earned her Doctorate in Physical Therapy from the University of Utah in 2014 and her BS in Health Science with a minor in Spanish from Saint Mary’s College of California in 2008. Since earning her Doctorate, Halley has focused her career in Orthopedics with an emphasis in manual therapy and taken continuing education courses in Muscle Energy Technique, Graston Technique (IASMT), Functional Dry Needling and several other specialized manual therapy techniques for the spine and pelvis. Halley also is a Certified Nutrition Coach often integrates nutrition into her sessions. Halley enjoys treating all aspects of the body and loves having the opportunity to help patients of all ages and abilities return to the active life they want to live.
