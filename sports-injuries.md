@@ -6,7 +6,7 @@ description: Bodywise Physical Therapy can help get you back to competition fast
   and stronger than before your injury. Book an appointment in Boulder, Broomfield,
   or Westminster today.
 sidebar: false
-image: "/images/sports-injuries.jpg"
+image: "/images/climber-warm-up.jpg"
 menu:
   symptoms:
     weight: 10
