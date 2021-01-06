@@ -27,3 +27,5 @@ fields:
     maxSize: 64
   label: Image
   description: Featured image for this page (ideal width = 1200 pixels)
+pages:
+- nutrition-coaching.md
