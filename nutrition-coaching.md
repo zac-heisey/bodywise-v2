@@ -6,6 +6,10 @@ description: 'Learn to eat better, shop smarter, prepare foods that are easy and
   building new structure around eating well and feeling well to reach your personal
   fitness goals '
 image: "/images/nutrition-man.jpg"
+sidebar: false
+menu:
+  wellness:
+    weight: 1
 published: false
 
 ---
