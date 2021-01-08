@@ -4,6 +4,9 @@ layout: page
 subtitle: Bodywise Accepts Most Major Insurance Plans for Physical Therapy Treatment
 description: Gain accurate answers regarding health and fitness in the FAQ section of Bodywise Physical Therapy.
 sidebar: false
+menu:
+  patient-info:
+    weight: 3
 ---
 
 Physical therapy is a covered medical expense under most major medical insurance plans. Listed below are some of the insurance providers Bodywise works with. If you don't see your insurance provider listed below, [please get in touch](/contact-us/) so we can check your coverage.
