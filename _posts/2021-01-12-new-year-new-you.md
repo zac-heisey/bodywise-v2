@@ -1,7 +1,7 @@
 ---
 author: Bodywise PT
 title: New Year, New You!
-date: 2021-01-12 00:00:00 -0700
+date: 2021-01-11 00:00:00 -0700
 description: 'Learn how to eat better and feel better this year with a nutrition coach
   to guide you in changing habits and routines by empowering you to make permanent
   and sustainable changes '
