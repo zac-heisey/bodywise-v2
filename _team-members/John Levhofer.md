@@ -1,6 +1,6 @@
 ---
 name: John Levhofer
-image: ''
+image: "/images/john.jpg"
 role: DPT
 published: false
 
