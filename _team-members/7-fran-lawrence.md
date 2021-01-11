@@ -1,5 +1,6 @@
 ---
 name: Fran Lawrence
-image: "/images/fran-lawrence.jpg"
+image: "/images/fran.JPG"
 role: Lead Admin/Office Manager
+
 ---
