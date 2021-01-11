@@ -13,6 +13,21 @@ menu:
 published: false
 
 ---
-**WHAT IS NUTRITION COACHING?**
+### **WHAT IS NUTRITION COACHING?**
 
 It's so much more than food!  Many of know we should "eat better" and "exercise more," but what does that really mean?  How do you do it? How do you break bad habits and build new, sustainable routines?  This is where nutrition coaching comes in.  We will help you bridge the gap between the desire to be healthy and the process of actually getting healthy!  We will help you break those habits and find new routines that work for you.
+
+### **WHAT TO EXPECT**
+
+* Working one-on-one with our certified nutrition coach Halley Tollner
+* Review your current eating and exercise habits
+* Discuss your food preferences, anticipated challenges and desired outcomes
+* Learn strategies for meal planning, healthy grocery shopping and easy meals for a busy life
+* Establish a customized plan for your health and nutrition goals 
+* Create an exercise plan that fits your time constraints and goals 
+
+### **HOW TO GET STARTED**
+
+* Call to schedule your initial 1 hour consultation
+* Fill out paperwork that will be emailed to you upon scheduling
+* Keep a DETAILED three day food journal (more information upon scheduling) 
