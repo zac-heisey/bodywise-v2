@@ -31,4 +31,4 @@ Every January, millions of Americans make New Year’s resolutions to lose weigh
 
 There is no one food and exercise plan that works for everyone. Healthy living is a dynamic process and your nutrition coach is your partner in change. They will facilitate healthy eating habits and exercise programming and empower you to take responsibility for your own health.
 
-Call now to schedule your initial consultation and take advantage of our New Year promotions!! All visits will be conducted in virtual format
+Call now to schedule your initial consultation and take advantage of our New Year promotions!! All visits will be conducted in virtual format.
