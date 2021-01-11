@@ -207,3 +207,28 @@ input, select, textarea, .g-recaptcha {
   }
 
 }
+
+/* COVID Banner (homepage) */
+
+a#covid-banner {
+
+  display: block;
+  text-decoration: none;
+  background-color: #f8d7da;
+  border: 2px solid #f5c2c7;
+  border-radius: 0.25rem;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto 1rem auto;
+  padding: 1rem;
+
+  p {
+
+    color: #842029;
+    text-align: center;
+    letter-spacing: normal;
+    margin: 0;
+
+  }
+
+}
