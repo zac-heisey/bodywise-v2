@@ -9,6 +9,6 @@ image: "/images/root-tree-2.jpg"
 published: false
 
 ---
-## **FUNCTIONAL MEDICINE WILL BE COMING LATER THIS SPRING!**
+## **FUNCTIONAL MEDICINE WILL BE COMING SPRING 2021!**
 
 ## **STAY TUNED!!**
