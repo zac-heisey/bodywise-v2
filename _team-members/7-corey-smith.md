@@ -2,9 +2,8 @@
 name: Corey Smith
 image: "/images/corey-smith.jpg"
 role: DPT
-published: false
-
 ---
+
 Corey grew up in Burlington, KS. He attended Ottawa University from 2009-2013 where he received his bachelor's degree in Exercise Science. Corey was also 4-year starter and captain on the Men’s Basketball Team at Ottawa. After graduating from Ottawa, he completed his Doctorate of Physical Therapy at the University of Kansas Medical Center, graduating in 2016.
 
 Upon graduation, Corey began working at Neosho Memorial Regional Medical Center in Chanute, KS where he worked as an Outpatient/Inpatient PT for 2 years. He then transferred to PT Associates of Emporia in June of 2018, where he worked until December 2020.
