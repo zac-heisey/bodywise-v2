@@ -1,6 +1,6 @@
 ---
 name: Halley Tollner
-image: "/images/halley-tollner.jpg"
+image: "/images/halley-profiel.jpg"
 role: DPT, CNC
 
 ---
