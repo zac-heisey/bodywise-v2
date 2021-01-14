@@ -11,4 +11,6 @@ menu:
     weight: 2
 
 ---
-### **STAY TUNED FOR MORE INFORMATION SUMMER 2021**
+## **ACUPUNCTION COMING SUMMER 2021**
+
+## **STAY TUNED!!**
