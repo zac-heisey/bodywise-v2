@@ -14,19 +14,18 @@ menu:
 
 We are here to help you enjoy your life, pain-free! To make a convenient appointment, simply call us today **(303) 444-2529**. Our practice is dedicated to helping our patients identify the cause of their pain and create a custom treatment program that will allow them to return to normal activities pain-free.
 
-**Patient Forms**
+### Patient Forms
 
-At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior to your first visit, please click the blue button below to download the New Patient Registration Form for the location of your initial visit. Then print and complete the form, and bring it with you on your first visit along with your insurance information and photo ID.
+At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior to your first visit, please download, print, and complete the **New Patient Registration Form** for the location of your visit, as well as the **Automatic Payment Consent** and **Patient Financial Agreement** forms that are listed below. Please bring your completed forms, along with your insurance information and photo ID, to your initial visit.
 
-<a href="/assets/bodywise-new-patient-paperwork.pdf" class="button primary npp" download>New Patient Paperwork (Boulder & Broomfield Locations)</a>
+- **New Patient Registration Form (Boulder & Broomfield Locations)**: <a href="/assets/bodywise-new-patient-paperwork.pdf" download>Download Form</a>
+- **New Patient Registration Form (Westminster Location)**: <a href="/assets/bodywise-npp-westminster.pdf" download>Download Form</a>
+- **Automatic Payment Consent Form**: <a href="/assets/bodywise-automatic-payment-consent-form.pdf" download>Download Form</a>
+- **Patient Financial Agreement Form**: <a href="/assets/bodywise-patient-financial-agreement.pdf" download>Download Form</a>
 
-<a href="/assets/bodywise-npp-westminster.pdf" class="button primary npp" download>New Patient Paperwork (Westminster Location)</a>
+---
 
-<a href="/assets/bodywise-automatic-payment-consent-form.pdf" class="button primary npp" download>Automatic Payment Consent Form</a>
-
-<a href="/assets/bodywise-patient-financial-agreement.pdf" class="button primary npp" download>Patient Financial Agreement</a>
-
-**Before Your Visit**
+### Before Your Visit
 
 - Make a list of questions that you have to discuss on your first visit.
 - List signs and symptoms that can be of importance to the physical therapist.
@@ -35,7 +34,7 @@ At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior 
 - Plan to **arrive 15 minutes early** for your first appointment.
 - Bring with you a copy of your insurance card and a photo ID.
 
-**What to Expect On Your First Visit**
+### What to Expect On Your First Visit
 
 - You will register with our friendly front office staff. They will help you navigate the insurance process and treatment program so you can focus on your recovery.
 - You will meet with your physical therapist for the initial evaluation.
@@ -47,7 +46,7 @@ At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior 
 - Your physical therapist will write up their findings and a treatment plan to submit to your referring physician or another medical professional who you choose.
 - If you have any questions at any time, please don’t hesitate to call. We want to ensure your satisfaction and full recovery.
 
-**Health Insurance**
+### Health Insurance
 
 We gladly accept most insurance plans. Please call us to verify your insurance as we are always adding new [insurance plans](/insurance-plans/).
 
