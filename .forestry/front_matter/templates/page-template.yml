@@ -29,5 +29,6 @@ fields:
   description: Featured image for this page (ideal width = 1200 pixels)
 pages:
 - acupuncture.md
+- blood-flow-restriction.md
 - functional-medicine.md
 - nutrition-coaching.md
