@@ -22,6 +22,10 @@ At [Bodywise Physical Therapy](/), we want to maximize your time with us. Prior 
 
 <a href="/assets/bodywise-npp-westminster.pdf" class="button primary npp" download>New Patient Paperwork (Westminster Location)</a>
 
+<a href="/assets/bodywise-automatic-payment-consent-form.pdf" class="button primary npp" download>Automatic Payment Consent Form</a>
+
+<a href="/assets/bodywise-patient-financial-agreement.pdf" class="button primary npp" download>Patient Financial Agreement</a>
+
 **Before Your Visit**
 
 - Make a list of questions that you have to discuss on your first visit.
