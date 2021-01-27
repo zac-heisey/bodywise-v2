@@ -1,5 +1,5 @@
 ---
-title: BLOOD FLOW RESTRICTION
+title: Blood Flow Restriction
 subtitle: MAKE GREATER STRENGTH GAINS EARLY IN YOUR RECOVERY
 description: Blood flow restricted (BFR) therapy is the use of brief and intermittent
   venous occlusion (restriction of blood flow in the veins) using a tourniquet device
