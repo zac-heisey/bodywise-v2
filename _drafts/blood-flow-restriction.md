@@ -9,6 +9,10 @@ description: Blood flow restricted (BFR) therapy is the use of brief and intermi
   rehabilitation protocols and ultimately a faster return to sport.
 image: ''
 categories: []
+menu:
+  specialties:
+    weight: 4
+    title: Blood Flow Restriction
 
 ---
 **WHAT IS IT?**

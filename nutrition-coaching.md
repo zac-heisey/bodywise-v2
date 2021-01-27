@@ -29,4 +29,4 @@ It's so much more than food!  Many of know we should "eat better" and "exercise 
 
 * Call to schedule your initial 1 hour consultation
 * Fill out paperwork that will be emailed to you upon scheduling
-* Keep a DETAILED three day food journal (more information upon scheduling) 
+* Keep a DETAILED three day food journal (more information upon scheduling)
