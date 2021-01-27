@@ -8,7 +8,7 @@ sidebar: false
 image: "/images/trigger-point-therapy.jpg"
 menu:
   specialties:
-    weight: 4
+    weight: 3
 
 ---
 ## What is Trigger Point Therapy?

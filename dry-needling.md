@@ -9,7 +9,7 @@ sidebar: false
 image: 
 menu:
   specialties:
-    weight: 2
+    weight: 1
 
 ---
 ## What is Dry Needling?
