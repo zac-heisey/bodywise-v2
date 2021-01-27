@@ -11,7 +11,7 @@ image: ''
 categories: []
 menu:
   specialties:
-    weight: 4
+    weight: 1
     title: Blood Flow Restriction
 
 ---

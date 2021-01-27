@@ -8,7 +8,7 @@ sidebar: false
 image: "/images/iastm.jpg"
 menu:
   specialties:
-    weight: 2
+    weight: 3
 
 ---
 ## What is IASTM?
