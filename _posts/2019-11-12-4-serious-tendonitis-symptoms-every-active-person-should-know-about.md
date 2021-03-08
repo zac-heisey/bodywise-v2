@@ -1,10 +1,10 @@
 ---
 author: Bodywise PT
 title: 4 Serious Tendonitis Symptoms Every Active Person Should Know About
-date: 2019-11-12 22:00:00 -0700
+date: 2019-11-12T22:00:00.000-07:00
 description: Do you play a sport or are especially active and think you might've injured
   your tendon? Here are 4 serious tendonitis symptoms you should know about.
-image: "/images/tendonitis-symptoms.jpg"
+image: "/images/tendonitis.jpg"
 categories: []
 
 ---
