@@ -9,7 +9,7 @@ image: "/images/root-tree-2.jpg"
 sidebar: false
 menu:
   wellness:
-    weight: 3
+    weight: 2
 
 ---
 ## **FUNCTIONAL MEDICINE COMING SPRING 2021!**
