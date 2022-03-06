@@ -19,12 +19,11 @@ It's so much more than food!  Many of know we should "eat better" and "exercise 
 ### **WHAT TO EXPECT**
 
 * One-on-one sessions with our certified health and wellness coaches
-* Comprehensive review of your current eating and lifestyle habits
-* Analysis of anticipated challenges and desired outcomes
-* Development of strategies for meal planning, healthy grocery shopping and easy to make recipes for a busy life
-* Establishment of a customized plan for your health and nutrition goals
-* Specific advice and recommendations for step-by-step, easily integrated food and lifestyle changes 
-* Discounted personal training packages available 
+* A comprehensive review of your current eating and lifestyle habits
+* Discover the "why" behind your health goals and how to achieve them
+* Strategies for meal planning, healthy grocery shopping and easy to make recipes for a busy life
+* Customized advice and recommendations for step-by-step, easily integrated food and lifestyle changes to reach your health and wellness goals 
+* Discounted personal training packages available
 
 ### **HOW TO GET STARTED**
 
