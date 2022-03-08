@@ -1,5 +1,5 @@
 ---
-title: HEALTH WITH INTENSION
+title: HEALTH WITH INTENTION
 subtitle: A Collaborative Effort to Your Best Self
 description: 'Learn to eat better, shop smarter, manage your time better, prepare
   foods that are easy and tasty. Take control of your health and wellness by learning
