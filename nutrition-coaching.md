@@ -1,6 +1,6 @@
 ---
-title: Health Coaching
-subtitle: Take Control of Your Health and Wellness
+title: HEALTH WITH INTENSION
+subtitle: A Collaborative Effort to Your Best Self
 description: 'Learn to eat better, shop smarter, manage your time better, prepare
   foods that are easy and tasty. Take control of your health and wellness by learning
   new habits and routines and building new structure around eating well and feeling
