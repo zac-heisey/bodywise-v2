@@ -10,6 +10,7 @@ sidebar: false
 menu:
   wellness:
     weight: 1
+published: false
 
 ---
 ### **WHAT IS HEALTH COACHING?**
