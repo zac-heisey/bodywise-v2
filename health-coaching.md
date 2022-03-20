@@ -14,7 +14,7 @@ menu:
 ---
 ### **WHAT IS HEALTH COACHING?**
 
-It's so much more than food!  Many of know we should "eat better" and "exercise more," but what does that really mean?  How do you do it? How do you break bad habits and build new, sustainable routines?  This is where health coaching comes in.  We will help you bridge the gap between the desire to be healthy and actually getting healthy!  There is no one size fits all program and your coach will provide the tools and skills to build new habits and make lasting changes.
+It's so much more than food!  Most of us know we should "eat better" and "exercise more," but what does that really mean?  How do you do it? How do you break bad habits and build new, sustainable routines?  This is where health coaching comes in.  We will help you bridge the gap between the desire to be healthy and actually getting healthy!  There is no one size fits all program and your coach will provide the tools and skills to build new habits and make lasting changes.
 
 ### **WHAT TO EXPECT**
 
@@ -28,5 +28,4 @@ It's so much more than food!  Many of know we should "eat better" and "exercise 
 ### **HOW TO GET STARTED**
 
 * Call to schedule your free 45 minute consultation
-* Fill out paperwork that will be emailed to you upon scheduling
-* Keep a DETAILED three day food journal (more information upon scheduling)
+* 303-444-2529
