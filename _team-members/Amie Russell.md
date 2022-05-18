@@ -1,7 +1,7 @@
 ---
-name: Amie Russell PT, DPT, ATC
+name: Amie Russell
 image: ''
-role: ''
+role: PT, DPT, ATC
 published: false
 
 ---
