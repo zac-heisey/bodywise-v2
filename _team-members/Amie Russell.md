@@ -2,7 +2,6 @@
 name: Amie Russell
 image: "/images/ptheadshotss-4-aimee.jpg"
 role: PT, DPT, ATC
-published: false
 
 ---
 Amie earned her Doctor of Physical Therapy (DPT) from the University of Colorado – Denver in 2009. She has been practicing at outpatient clinics in Northern Colorado specializing in general orthopedics and sports medicine. The knowledge gained from these experiences has deepened her appreciation of the importance of a “whole body” approach to healing. Amie applies Postural Restoration Institute (PRI) techniques to support and improve patient treatment and recovery. Her certification in Functional Dry Needling also broadens the resources available to her to encourage healing. Amie has worked with patients of all ages with a wide variety of orthopedic and neurologic conditions, sports and/or work injuries, post-surgical statuses, and injury prevention.
