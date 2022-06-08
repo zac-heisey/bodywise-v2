@@ -1,6 +1,6 @@
 ---
 name: Marisa Vargas
-image: ''
+image: "/images/ptheadshotss-6.jpg"
 role: PT, DPT
 published: false
 
