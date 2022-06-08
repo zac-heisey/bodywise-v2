@@ -1,6 +1,6 @@
 ---
 name: Amie Russell
-image: ''
+image: "/images/ptheadshotss-4-aimee.jpg"
 role: PT, DPT, ATC
 published: false
 
