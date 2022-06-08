@@ -1,6 +1,6 @@
 ---
 name: Cathy McDuff
-image: "/images/cathy-mcduff.jpg"
+image: "/images/ptheadshotss-2-kathy.jpg"
 role: PTA, LMT, AT
 
 ---
