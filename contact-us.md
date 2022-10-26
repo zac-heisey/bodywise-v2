@@ -8,13 +8,15 @@ description: Contact the team at Bodywise Physical Therapy to schedule your appo
 sidebar: false
 
 ---
-<!-- Google reCAPTCHA -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<!-- Bodywise PT Contact Form (via Basin) -->
-<form accept-charset="UTF-8" name="Bodywise PT Contact Form" action="https://usebasin.com/f/e1ce584f529c" enctype="multipart/form-data" method="POST">
+<!-- Bodywise PT Contact Form (via Netlify) -->
+<form name="Bodywise PT Contact Form" method="POST" action="/thank-you/" netlify-honeypot="gotcha" data-netlify-recaptcha="true" data-netlify="true">
   <div class="row">
     <div class="col-6 col-12-medium col-12-small">
+      <!-- Honeypot -->
+      <p class="hidden">
+      <label>Don't fill this out if you're human: <input name="gotcha"></label>
+      </p>
+
       <label for="name">Your Name</label>
       <input type="text" name="name" id="name" required>
 
@@ -47,8 +49,8 @@ sidebar: false
       </select>
 
       <label for="confirm">Connect With Us!</label>
-      <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
-
+      <!-- reCAPTCHA -->
+      <div data-netlify-recaptcha="true"></div>
       <button type="submit" class="button primary">Get In Touch</button>
     </div>
   </div>
