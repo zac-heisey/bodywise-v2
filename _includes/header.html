@@ -4,7 +4,7 @@
     <a href="/"><img src="/images/logo.png"></a>
     <nav id="nav">
       <ul>
-      {% for item in site.data.menus.navigation %}
+      {% for item in site.menus.navigation %}
         <li>
           <a href="{{ item.url }}">{{ item.title }}</a>
           {% if item.children %}
