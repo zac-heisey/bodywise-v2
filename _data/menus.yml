@@ -16,15 +16,15 @@ navigation:
   title: Specialties
   identifier: specialties
   weight: 4
-- url: "#"
-  title: Wellness
-  identifier: wellness
-  weight: 5
-- url: "#"
-  title: Patient Info
-  identifier: patient-info
-  weight: 6
 - url: "/faqs"
   title: FAQs
   identifier: faqs
   weight: 7
+- url: "#"
+  title: Patient Info
+  identifier: patient-info
+  weight: 6
+- url: "#"
+  title: Wellness
+  identifier: wellness
+  weight: 5
