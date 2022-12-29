@@ -695,9 +695,14 @@
 		padding-left: 0;
 
 		li {
-			margin-bottom: _size(element-margin);
+			margin-bottom: 1em;
 			padding-left: 2em;
 			position: relative;
+
+			p.footer-location {
+				margin: 0;
+				font-weight: bold;
+			}
 		}
 
 		.icon {

@@ -17,19 +17,17 @@
             <h3>Our Locations</h3>
           </header>
           <ul class="labeled-icons">
+            <!-- Loop through _locations directory -->
+            {% for location in site.locations %}
             <li>
-              <h4 class="icon fa-map-marker"><span class="label">Boulder</span></h4>
-              4440 Arapahoe Ave, Suite 101<br>Boulder, CO 80303
+              <span class="icon fa-map-marker"></span>
+              <p class="footer-location">{{ location.title }}</p>
+              {{ location.address-1 }}, {{ location.address-2 }}<br>
+              {{ location.city-state-zip }}<br>
+              Phone: {{ location.phone }}<br>
+              Fax: {{ location.fax }}
             </li>
-            <li>
-              <h4 class="icon fa-map-marker"><span class="label">Broomfield</span></h4>
-              3305 West 144th Ave, Suite 104 <br>Broomfield, CO 80023
-            </li>
-            <li>
-              <h4 class="icon fa-map-marker"><span class="label">Westminster</span></h4>
-              10155 Westmoor Drive, Unit 185<br>Westminster, CO 80021<br>
-              (Fitness Center in Building 3)
-            </li>
+            {% endfor %}
           </ul>
         </section>
         <section class="col-4 col-6-medium col-12-small">
